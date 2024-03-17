@@ -1,0 +1,1600 @@
+{"id": 0, "image": "ex_0_img_0", "caption": "an old person kisses a young person"}
+{"id": 0, "image": "ex_0_img_0", "caption": "a young person kisses an old person"}
+{"id": 0, "image": "ex_0_img_1", "caption": "an old person kisses a young person"}
+{"id": 0, "image": "ex_0_img_1", "caption": "a young person kisses an old person"}
+{"id": 1, "image": "ex_1_img_0", "caption": "the taller person hugs the shorter person"}
+{"id": 1, "image": "ex_1_img_0", "caption": "the shorter person hugs the taller person"}
+{"id": 1, "image": "ex_1_img_1", "caption": "the taller person hugs the shorter person"}
+{"id": 1, "image": "ex_1_img_1", "caption": "the shorter person hugs the taller person"}
+{"id": 2, "image": "ex_2_img_0", "caption": "the masked wrestler hits the unmasked wrestler"}
+{"id": 2, "image": "ex_2_img_0", "caption": "the unmasked wrestler hits the masked wrestler"}
+{"id": 2, "image": "ex_2_img_1", "caption": "the masked wrestler hits the unmasked wrestler"}
+{"id": 2, "image": "ex_2_img_1", "caption": "the unmasked wrestler hits the masked wrestler"}
+{"id": 3, "image": "ex_3_img_0", "caption": "a person watches an animal"}
+{"id": 3, "image": "ex_3_img_0", "caption": "an animal watches a person"}
+{"id": 3, "image": "ex_3_img_1", "caption": "a person watches an animal"}
+{"id": 3, "image": "ex_3_img_1", "caption": "an animal watches a person"}
+{"id": 4, "image": "ex_4_img_0", "caption": "the person without earrings pays the person with earrings"}
+{"id": 4, "image": "ex_4_img_0", "caption": "the person with earrings pays the person without earrings"}
+{"id": 4, "image": "ex_4_img_1", "caption": "the person without earrings pays the person with earrings"}
+{"id": 4, "image": "ex_4_img_1", "caption": "the person with earrings pays the person without earrings"}
+{"id": 5, "image": "ex_5_img_0", "caption": "a bird eats a snake"}
+{"id": 5, "image": "ex_5_img_0", "caption": "a snake eats a bird"}
+{"id": 5, "image": "ex_5_img_1", "caption": "a bird eats a snake"}
+{"id": 5, "image": "ex_5_img_1", "caption": "a snake eats a bird"}
+{"id": 6, "image": "ex_6_img_0", "caption": "a plant was harmed by another organism, and that organism broke the plant into pieces"}
+{"id": 6, "image": "ex_6_img_0", "caption": "another organism was harmed by a plant, and that plant broke the organism into pieces"}
+{"id": 6, "image": "ex_6_img_1", "caption": "a plant was harmed by another organism, and that organism broke the plant into pieces"}
+{"id": 6, "image": "ex_6_img_1", "caption": "another organism was harmed by a plant, and that plant broke the organism into pieces"}
+{"id": 7, "image": "ex_7_img_0", "caption": "a bottle is in water"}
+{"id": 7, "image": "ex_7_img_0", "caption": "water is in a bottle"}
+{"id": 7, "image": "ex_7_img_1", "caption": "a bottle is in water"}
+{"id": 7, "image": "ex_7_img_1", "caption": "water is in a bottle"}
+{"id": 8, "image": "ex_8_img_0", "caption": "a tree smashed into a car"}
+{"id": 8, "image": "ex_8_img_0", "caption": "a car smashed into a tree"}
+{"id": 8, "image": "ex_8_img_1", "caption": "a tree smashed into a car"}
+{"id": 8, "image": "ex_8_img_1", "caption": "a car smashed into a tree"}
+{"id": 9, "image": "ex_9_img_0", "caption": "people fall on the leaves"}
+{"id": 9, "image": "ex_9_img_0", "caption": "the leaves fall on people"}
+{"id": 9, "image": "ex_9_img_1", "caption": "people fall on the leaves"}
+{"id": 9, "image": "ex_9_img_1", "caption": "the leaves fall on people"}
+{"id": 10, "image": "ex_10_img_0", "caption": "the sail rests below the water"}
+{"id": 10, "image": "ex_10_img_0", "caption": "the water rests below the sail"}
+{"id": 10, "image": "ex_10_img_1", "caption": "the sail rests below the water"}
+{"id": 10, "image": "ex_10_img_1", "caption": "the water rests below the sail"}
+{"id": 11, "image": "ex_11_img_0", "caption": "there is a table below someone"}
+{"id": 11, "image": "ex_11_img_0", "caption": "there is someone below a table"}
+{"id": 11, "image": "ex_11_img_1", "caption": "there is a table below someone"}
+{"id": 11, "image": "ex_11_img_1", "caption": "there is someone below a table"}
+{"id": 12, "image": "ex_12_img_0", "caption": "the image shows a computer on top of books"}
+{"id": 12, "image": "ex_12_img_0", "caption": "the image shows books on top of a computer"}
+{"id": 12, "image": "ex_12_img_1", "caption": "the image shows a computer on top of books"}
+{"id": 12, "image": "ex_12_img_1", "caption": "the image shows books on top of a computer"}
+{"id": 13, "image": "ex_13_img_0", "caption": "a caterpillar with some plants"}
+{"id": 13, "image": "ex_13_img_0", "caption": "a plant with some caterpillars"}
+{"id": 13, "image": "ex_13_img_1", "caption": "a caterpillar with some plants"}
+{"id": 13, "image": "ex_13_img_1", "caption": "a plant with some caterpillars"}
+{"id": 14, "image": "ex_14_img_0", "caption": "there is a mug in some grass"}
+{"id": 14, "image": "ex_14_img_0", "caption": "there is some grass in a mug"}
+{"id": 14, "image": "ex_14_img_1", "caption": "there is a mug in some grass"}
+{"id": 14, "image": "ex_14_img_1", "caption": "there is some grass in a mug"}
+{"id": 15, "image": "ex_15_img_0", "caption": "there are more skiers than snowboarders"}
+{"id": 15, "image": "ex_15_img_0", "caption": "there are more snowboarders than skiers"}
+{"id": 15, "image": "ex_15_img_1", "caption": "there are more skiers than snowboarders"}
+{"id": 15, "image": "ex_15_img_1", "caption": "there are more snowboarders than skiers"}
+{"id": 16, "image": "ex_16_img_0", "caption": "there are fewer forks than spoons"}
+{"id": 16, "image": "ex_16_img_0", "caption": "there are fewer spoons than forks"}
+{"id": 16, "image": "ex_16_img_1", "caption": "there are fewer forks than spoons"}
+{"id": 16, "image": "ex_16_img_1", "caption": "there are fewer spoons than forks"}
+{"id": 17, "image": "ex_17_img_0", "caption": "there are more ladybugs than flowers"}
+{"id": 17, "image": "ex_17_img_0", "caption": "there are more flowers than ladybugs"}
+{"id": 17, "image": "ex_17_img_1", "caption": "there are more ladybugs than flowers"}
+{"id": 17, "image": "ex_17_img_1", "caption": "there are more flowers than ladybugs"}
+{"id": 18, "image": "ex_18_img_0", "caption": "there is less orange juice than milk"}
+{"id": 18, "image": "ex_18_img_0", "caption": "there is less milk than orange juice"}
+{"id": 18, "image": "ex_18_img_1", "caption": "there is less orange juice than milk"}
+{"id": 18, "image": "ex_18_img_1", "caption": "there is less milk than orange juice"}
+{"id": 19, "image": "ex_19_img_0", "caption": "there is more dirt than empty space in the jar"}
+{"id": 19, "image": "ex_19_img_0", "caption": "there is more empty space than dirt in the jar"}
+{"id": 19, "image": "ex_19_img_1", "caption": "there is more dirt than empty space in the jar"}
+{"id": 19, "image": "ex_19_img_1", "caption": "there is more empty space than dirt in the jar"}
+{"id": 20, "image": "ex_20_img_0", "caption": "there is a bit less milk chocolate than white chocolate"}
+{"id": 20, "image": "ex_20_img_0", "caption": "there is a bit less white chocolate than milk chocolate"}
+{"id": 20, "image": "ex_20_img_1", "caption": "there is a bit less milk chocolate than white chocolate"}
+{"id": 20, "image": "ex_20_img_1", "caption": "there is a bit less white chocolate than milk chocolate"}
+{"id": 21, "image": "ex_21_img_0", "caption": "a person sits and a dog stands"}
+{"id": 21, "image": "ex_21_img_0", "caption": "a person stands and a dog sits"}
+{"id": 21, "image": "ex_21_img_1", "caption": "a person sits and a dog stands"}
+{"id": 21, "image": "ex_21_img_1", "caption": "a person stands and a dog sits"}
+{"id": 22, "image": "ex_22_img_0", "caption": "The person with more facial hair lies awake while the other sleeps"}
+{"id": 22, "image": "ex_22_img_0", "caption": "The person with more facial hair sleeps while the other lies awake"}
+{"id": 22, "image": "ex_22_img_1", "caption": "The person with more facial hair lies awake while the other sleeps"}
+{"id": 22, "image": "ex_22_img_1", "caption": "The person with more facial hair sleeps while the other lies awake"}
+{"id": 23, "image": "ex_23_img_0", "caption": "the person in the middle is floating and some others are standing"}
+{"id": 23, "image": "ex_23_img_0", "caption": "the person in the middle is standing and some others are floating"}
+{"id": 23, "image": "ex_23_img_1", "caption": "the person in the middle is floating and some others are standing"}
+{"id": 23, "image": "ex_23_img_1", "caption": "the person in the middle is standing and some others are floating"}
+{"id": 24, "image": "ex_24_img_0", "caption": "the person closer to the camera weightlifts and the person farther from the camera runs"}
+{"id": 24, "image": "ex_24_img_0", "caption": "the person closer to the camera runs and the person farther from the camera weightlifts"}
+{"id": 24, "image": "ex_24_img_1", "caption": "the person closer to the camera weightlifts and the person farther from the camera runs"}
+{"id": 24, "image": "ex_24_img_1", "caption": "the person closer to the camera runs and the person farther from the camera weightlifts"}
+{"id": 25, "image": "ex_25_img_0", "caption": "the person with the white collared shirt waters the plant while the other holds it"}
+{"id": 25, "image": "ex_25_img_0", "caption": "the person with the white collared shirt holds the plant while the other waters it"}
+{"id": 25, "image": "ex_25_img_1", "caption": "the person with the white collared shirt waters the plant while the other holds it"}
+{"id": 25, "image": "ex_25_img_1", "caption": "the person with the white collared shirt holds the plant while the other waters it"}
+{"id": 26, "image": "ex_26_img_0", "caption": "the taller person chops food and the shorter person eats food"}
+{"id": 26, "image": "ex_26_img_0", "caption": "the taller person eats food and the shorter person chops food"}
+{"id": 26, "image": "ex_26_img_1", "caption": "the taller person chops food and the shorter person eats food"}
+{"id": 26, "image": "ex_26_img_1", "caption": "the taller person eats food and the shorter person chops food"}
+{"id": 27, "image": "ex_27_img_0", "caption": "the person with the ponytail packs stuff and other buys it"}
+{"id": 27, "image": "ex_27_img_0", "caption": "the person with the ponytail buys stuff and other packs it"}
+{"id": 27, "image": "ex_27_img_1", "caption": "the person with the ponytail packs stuff and other buys it"}
+{"id": 27, "image": "ex_27_img_1", "caption": "the person with the ponytail buys stuff and other packs it"}
+{"id": 28, "image": "ex_28_img_0", "caption": "a person walking in a field of yellow flowers with a red dress"}
+{"id": 28, "image": "ex_28_img_0", "caption": "a person walking in a field of red flowers with a yellow dress"}
+{"id": 28, "image": "ex_28_img_1", "caption": "a person walking in a field of yellow flowers with a red dress"}
+{"id": 28, "image": "ex_28_img_1", "caption": "a person walking in a field of red flowers with a yellow dress"}
+{"id": 29, "image": "ex_29_img_0", "caption": "a brown dog is on a white couch"}
+{"id": 29, "image": "ex_29_img_0", "caption": "a white dog is on a brown couch"}
+{"id": 29, "image": "ex_29_img_1", "caption": "a brown dog is on a white couch"}
+{"id": 29, "image": "ex_29_img_1", "caption": "a white dog is on a brown couch"}
+{"id": 30, "image": "ex_30_img_0", "caption": "a blue bird is next to a red berry"}
+{"id": 30, "image": "ex_30_img_0", "caption": "a red bird is next to a blue berry"}
+{"id": 30, "image": "ex_30_img_1", "caption": "a blue bird is next to a red berry"}
+{"id": 30, "image": "ex_30_img_1", "caption": "a red bird is next to a blue berry"}
+{"id": 31, "image": "ex_31_img_0", "caption": "The red book is above the yellow book and below the blue book"}
+{"id": 31, "image": "ex_31_img_0", "caption": "The yellow book is above the blue book and below the red book"}
+{"id": 31, "image": "ex_31_img_1", "caption": "The red book is above the yellow book and below the blue book"}
+{"id": 31, "image": "ex_31_img_1", "caption": "The yellow book is above the blue book and below the red book"}
+{"id": 32, "image": "ex_32_img_0", "caption": "astronauts in blue suits with a red planet in the background"}
+{"id": 32, "image": "ex_32_img_0", "caption": "astronauts in red suits with a blue planet in the background"}
+{"id": 32, "image": "ex_32_img_1", "caption": "astronauts in blue suits with a red planet in the background"}
+{"id": 32, "image": "ex_32_img_1", "caption": "astronauts in red suits with a blue planet in the background"}
+{"id": 33, "image": "ex_33_img_0", "caption": "the square table has a round base"}
+{"id": 33, "image": "ex_33_img_0", "caption": "the round table has a square base"}
+{"id": 33, "image": "ex_33_img_1", "caption": "the square table has a round base"}
+{"id": 33, "image": "ex_33_img_1", "caption": "the round table has a square base"}
+{"id": 34, "image": "ex_34_img_0", "caption": "pointy bushes are behind rectangular bushes"}
+{"id": 34, "image": "ex_34_img_0", "caption": "rectangular bushes are behind pointy bushes"}
+{"id": 34, "image": "ex_34_img_1", "caption": "pointy bushes are behind rectangular bushes"}
+{"id": 34, "image": "ex_34_img_1", "caption": "rectangular bushes are behind pointy bushes"}
+{"id": 35, "image": "ex_35_img_0", "caption": "a circular sign is above a rectangular sign"}
+{"id": 35, "image": "ex_35_img_0", "caption": "a rectangular sign is above a circular sign"}
+{"id": 35, "image": "ex_35_img_1", "caption": "a circular sign is above a rectangular sign"}
+{"id": 35, "image": "ex_35_img_1", "caption": "a rectangular sign is above a circular sign"}
+{"id": 36, "image": "ex_36_img_0", "caption": "a wood chess piece rests on metal objects"}
+{"id": 36, "image": "ex_36_img_0", "caption": "a metal chess piece rests on wood objects"}
+{"id": 36, "image": "ex_36_img_1", "caption": "a wood chess piece rests on metal objects"}
+{"id": 36, "image": "ex_36_img_1", "caption": "a metal chess piece rests on wood objects"}
+{"id": 37, "image": "ex_37_img_0", "caption": "soft shoes are on a smooth floor"}
+{"id": 37, "image": "ex_37_img_0", "caption": "smooth shoes are on a soft floor"}
+{"id": 37, "image": "ex_37_img_1", "caption": "soft shoes are on a smooth floor"}
+{"id": 37, "image": "ex_37_img_1", "caption": "smooth shoes are on a soft floor"}
+{"id": 38, "image": "ex_38_img_0", "caption": "the happy person is on the right and the sad person is on the left"}
+{"id": 38, "image": "ex_38_img_0", "caption": "the sad person is on the right and the happy person is on the left"}
+{"id": 38, "image": "ex_38_img_1", "caption": "the happy person is on the right and the sad person is on the left"}
+{"id": 38, "image": "ex_38_img_1", "caption": "the sad person is on the right and the happy person is on the left"}
+{"id": 39, "image": "ex_39_img_0", "caption": "the hurt person is on the left and the helpful person is on the right"}
+{"id": 39, "image": "ex_39_img_0", "caption": "the helpful person is on the left and the hurt person is on the right"}
+{"id": 39, "image": "ex_39_img_1", "caption": "the hurt person is on the left and the helpful person is on the right"}
+{"id": 39, "image": "ex_39_img_1", "caption": "the helpful person is on the left and the hurt person is on the right"}
+{"id": 40, "image": "ex_40_img_0", "caption": "the more content person has the healthier food and the less content person has the less healthy food"}
+{"id": 40, "image": "ex_40_img_0", "caption": "the less content person has the healthier food and the more content person has the less healthy food"}
+{"id": 40, "image": "ex_40_img_1", "caption": "the more content person has the healthier food and the less content person has the less healthy food"}
+{"id": 40, "image": "ex_40_img_1", "caption": "the less content person has the healthier food and the more content person has the less healthy food"}
+{"id": 41, "image": "ex_41_img_0", "caption": "the orange lollipop is sad and the red lollipop is surprised"}
+{"id": 41, "image": "ex_41_img_0", "caption": "the orange lollipop is surprised and the red lollipop is sad"}
+{"id": 41, "image": "ex_41_img_1", "caption": "the orange lollipop is sad and the red lollipop is surprised"}
+{"id": 41, "image": "ex_41_img_1", "caption": "the orange lollipop is surprised and the red lollipop is sad"}
+{"id": 42, "image": "ex_42_img_0", "caption": "the larger person wears yellow and the smaller person does not"}
+{"id": 42, "image": "ex_42_img_0", "caption": "the smaller person wears yellow and the larger person does not"}
+{"id": 42, "image": "ex_42_img_1", "caption": "the larger person wears yellow and the smaller person does not"}
+{"id": 42, "image": "ex_42_img_1", "caption": "the smaller person wears yellow and the larger person does not"}
+{"id": 43, "image": "ex_43_img_0", "caption": "a big cat is next to a small dog"}
+{"id": 43, "image": "ex_43_img_0", "caption": "a small cat is next to a big dog"}
+{"id": 43, "image": "ex_43_img_1", "caption": "a big cat is next to a small dog"}
+{"id": 43, "image": "ex_43_img_1", "caption": "a small cat is next to a big dog"}
+{"id": 44, "image": "ex_44_img_0", "caption": "the heavy oncoming traffic is contrasted with the light outgoing traffic"}
+{"id": 44, "image": "ex_44_img_0", "caption": "the light oncoming traffic is contrasted with the heavy outgoing traffic"}
+{"id": 44, "image": "ex_44_img_1", "caption": "the heavy oncoming traffic is contrasted with the light outgoing traffic"}
+{"id": 44, "image": "ex_44_img_1", "caption": "the light oncoming traffic is contrasted with the heavy outgoing traffic"}
+{"id": 45, "image": "ex_45_img_0", "caption": "a cold drink on a hot day"}
+{"id": 45, "image": "ex_45_img_0", "caption": "a hot drink on a cold day"}
+{"id": 45, "image": "ex_45_img_1", "caption": "a cold drink on a hot day"}
+{"id": 45, "image": "ex_45_img_1", "caption": "a hot drink on a cold day"}
+{"id": 46, "image": "ex_46_img_0", "caption": "a person is drinking now and eating later"}
+{"id": 46, "image": "ex_46_img_0", "caption": "a person is drinking later and eating now"}
+{"id": 46, "image": "ex_46_img_1", "caption": "a person is drinking now and eating later"}
+{"id": 46, "image": "ex_46_img_1", "caption": "a person is drinking later and eating now"}
+{"id": 47, "image": "ex_47_img_0", "caption": "the sailboat sails close but the beach is far away"}
+{"id": 47, "image": "ex_47_img_0", "caption": "the sailboat sails far away but the beach is close"}
+{"id": 47, "image": "ex_47_img_1", "caption": "the sailboat sails close but the beach is far away"}
+{"id": 47, "image": "ex_47_img_1", "caption": "the sailboat sails far away but the beach is close"}
+{"id": 48, "image": "ex_48_img_0", "caption": "the passenger is riding inattentive to the road and the driver is driving attentive to the road"}
+{"id": 48, "image": "ex_48_img_0", "caption": "the passenger is riding attentive to the road and the driver is driving inattentive to the road"}
+{"id": 48, "image": "ex_48_img_1", "caption": "the passenger is riding inattentive to the road and the driver is driving attentive to the road"}
+{"id": 48, "image": "ex_48_img_1", "caption": "the passenger is riding attentive to the road and the driver is driving inattentive to the road"}
+{"id": 49, "image": "ex_49_img_0", "caption": "it wears a hat but the person doesn't"}
+{"id": 49, "image": "ex_49_img_0", "caption": "the person wears a hat but it doesn't"}
+{"id": 49, "image": "ex_49_img_1", "caption": "it wears a hat but the person doesn't"}
+{"id": 49, "image": "ex_49_img_1", "caption": "the person wears a hat but it doesn't"}
+{"id": 50, "image": "ex_50_img_0", "caption": "the person with green legs is running quite slowly and the red legged one runs faster"}
+{"id": 50, "image": "ex_50_img_0", "caption": "the person with green legs is running faster and the red legged one runs quite slowly"}
+{"id": 50, "image": "ex_50_img_1", "caption": "the person with green legs is running quite slowly and the red legged one runs faster"}
+{"id": 50, "image": "ex_50_img_1", "caption": "the person with green legs is running faster and the red legged one runs quite slowly"}
+{"id": 51, "image": "ex_51_img_0", "caption": "a person is in the water and close to the sand"}
+{"id": 51, "image": "ex_51_img_0", "caption": "a person is close to the water and in the sand"}
+{"id": 51, "image": "ex_51_img_1", "caption": "a person is in the water and close to the sand"}
+{"id": 51, "image": "ex_51_img_1", "caption": "a person is close to the water and in the sand"}
+{"id": 52, "image": "ex_52_img_0", "caption": "a frog is above rocks which are under the water"}
+{"id": 52, "image": "ex_52_img_0", "caption": "a frog is under rocks which are above the water"}
+{"id": 52, "image": "ex_52_img_1", "caption": "a frog is above rocks which are under the water"}
+{"id": 52, "image": "ex_52_img_1", "caption": "a frog is under rocks which are above the water"}
+{"id": 53, "image": "ex_53_img_0", "caption": "driving off the road and on the unpaved terrain"}
+{"id": 53, "image": "ex_53_img_0", "caption": "driving on the road and off the unpaved terrain"}
+{"id": 53, "image": "ex_53_img_1", "caption": "driving off the road and on the unpaved terrain"}
+{"id": 53, "image": "ex_53_img_1", "caption": "driving on the road and off the unpaved terrain"}
+{"id": 54, "image": "ex_54_img_0", "caption": "someone is in a helicopter with a car"}
+{"id": 54, "image": "ex_54_img_0", "caption": "someone is with a helicopter in a car"}
+{"id": 54, "image": "ex_54_img_1", "caption": "someone is in a helicopter with a car"}
+{"id": 54, "image": "ex_54_img_1", "caption": "someone is with a helicopter in a car"}
+{"id": 55, "image": "ex_55_img_0", "caption": "the green one can fit inside the blue one and the blue one can fit outside the green one"}
+{"id": 55, "image": "ex_55_img_0", "caption": "the green one can fit outside the blue one and the blue one can fit inside the green one"}
+{"id": 55, "image": "ex_55_img_1", "caption": "the green one can fit inside the blue one and the blue one can fit outside the green one"}
+{"id": 55, "image": "ex_55_img_1", "caption": "the green one can fit outside the blue one and the blue one can fit inside the green one"}
+{"id": 56, "image": "ex_56_img_0", "caption": "jumping away from the photographer and towards the others"}
+{"id": 56, "image": "ex_56_img_0", "caption": "jumping towards the photographer and away from the others"}
+{"id": 56, "image": "ex_56_img_1", "caption": "jumping away from the photographer and towards the others"}
+{"id": 56, "image": "ex_56_img_1", "caption": "jumping towards the photographer and away from the others"}
+{"id": 57, "image": "ex_57_img_0", "caption": "someone bakes the dough before the dough is eaten"}
+{"id": 57, "image": "ex_57_img_0", "caption": "the dough is eaten before someone bakes the dough"}
+{"id": 57, "image": "ex_57_img_1", "caption": "someone bakes the dough before the dough is eaten"}
+{"id": 57, "image": "ex_57_img_1", "caption": "the dough is eaten before someone bakes the dough"}
+{"id": 58, "image": "ex_58_img_0", "caption": "it hatched before it was eaten"}
+{"id": 58, "image": "ex_58_img_0", "caption": "it was eaten before it hatched"}
+{"id": 58, "image": "ex_58_img_1", "caption": "it hatched before it was eaten"}
+{"id": 58, "image": "ex_58_img_1", "caption": "it was eaten before it hatched"}
+{"id": 59, "image": "ex_59_img_0", "caption": "there are three bananas and two apples"}
+{"id": 59, "image": "ex_59_img_0", "caption": "there are two bananas and three apples"}
+{"id": 59, "image": "ex_59_img_1", "caption": "there are three bananas and two apples"}
+{"id": 59, "image": "ex_59_img_1", "caption": "there are two bananas and three apples"}
+{"id": 60, "image": "ex_60_img_0", "caption": "someone has loaded their plate with one of the toast slices and two of the eggs"}
+{"id": 60, "image": "ex_60_img_0", "caption": "someone has loaded their plate with two of the toast slices and one of the eggs"}
+{"id": 60, "image": "ex_60_img_1", "caption": "someone has loaded their plate with one of the toast slices and two of the eggs"}
+{"id": 60, "image": "ex_60_img_1", "caption": "someone has loaded their plate with two of the toast slices and one of the eggs"}
+{"id": 61, "image": "ex_61_img_0", "caption": "there are three people and two windows"}
+{"id": 61, "image": "ex_61_img_0", "caption": "there are two people and three windows"}
+{"id": 61, "image": "ex_61_img_1", "caption": "there are three people and two windows"}
+{"id": 61, "image": "ex_61_img_1", "caption": "there are two people and three windows"}
+{"id": 62, "image": "ex_62_img_0", "caption": "there are 50 stars on the right flag and 5 stars on the left flag"}
+{"id": 62, "image": "ex_62_img_0", "caption": "there are 5 stars on the right flag and 50 stars on the left flag"}
+{"id": 62, "image": "ex_62_img_1", "caption": "there are 50 stars on the right flag and 5 stars on the left flag"}
+{"id": 62, "image": "ex_62_img_1", "caption": "there are 5 stars on the right flag and 50 stars on the left flag"}
+{"id": 63, "image": "ex_63_img_0", "caption": "no people wear blue shirts and six people wear white shirts"}
+{"id": 63, "image": "ex_63_img_0", "caption": "six people wear blue shirts and no people wear white shirts"}
+{"id": 63, "image": "ex_63_img_1", "caption": "no people wear blue shirts and six people wear white shirts"}
+{"id": 63, "image": "ex_63_img_1", "caption": "six people wear blue shirts and no people wear white shirts"}
+{"id": 64, "image": "ex_64_img_0", "caption": "the dog's leg is on the person's torso"}
+{"id": 64, "image": "ex_64_img_0", "caption": "the person's leg is on the dog's torso"}
+{"id": 64, "image": "ex_64_img_1", "caption": "the dog's leg is on the person's torso"}
+{"id": 64, "image": "ex_64_img_1", "caption": "the person's leg is on the dog's torso"}
+{"id": 65, "image": "ex_65_img_0", "caption": "the animal's eyes are bigger than the person's"}
+{"id": 65, "image": "ex_65_img_0", "caption": "the person's eyes are bigger than the animal's"}
+{"id": 65, "image": "ex_65_img_1", "caption": "the animal's eyes are bigger than the person's"}
+{"id": 65, "image": "ex_65_img_1", "caption": "the person's eyes are bigger than the animal's"}
+{"id": 66, "image": "ex_66_img_0", "caption": "the taller person's arm is around the shorter person's shoulder"}
+{"id": 66, "image": "ex_66_img_0", "caption": "the shorter person's arm is around the taller person's shoulder"}
+{"id": 66, "image": "ex_66_img_1", "caption": "the taller person's arm is around the shorter person's shoulder"}
+{"id": 66, "image": "ex_66_img_1", "caption": "the shorter person's arm is around the taller person's shoulder"}
+{"id": 67, "image": "ex_67_img_0", "caption": "the person in a brown coat looks back and the person in a black coat looks forward"}
+{"id": 67, "image": "ex_67_img_0", "caption": "the person in a black coat looks back and the person in a brown coat looks forward"}
+{"id": 67, "image": "ex_67_img_1", "caption": "the person in a brown coat looks back and the person in a black coat looks forward"}
+{"id": 67, "image": "ex_67_img_1", "caption": "the person in a black coat looks back and the person in a brown coat looks forward"}
+{"id": 68, "image": "ex_68_img_0", "caption": "it ran away while they pursued"}
+{"id": 68, "image": "ex_68_img_0", "caption": "they ran away while it pursued"}
+{"id": 68, "image": "ex_68_img_1", "caption": "it ran away while they pursued"}
+{"id": 68, "image": "ex_68_img_1", "caption": "they ran away while it pursued"}
+{"id": 69, "image": "ex_69_img_0", "caption": "almost everyone is in a boat and one is swimming"}
+{"id": 69, "image": "ex_69_img_0", "caption": "one is in a boat and almost everyone is swimming"}
+{"id": 69, "image": "ex_69_img_1", "caption": "almost everyone is in a boat and one is swimming"}
+{"id": 69, "image": "ex_69_img_1", "caption": "one is in a boat and almost everyone is swimming"}
+{"id": 70, "image": "ex_70_img_0", "caption": "the person with the lighter shoes is holding an emoji and the person with the darker shoes isn't"}
+{"id": 70, "image": "ex_70_img_0", "caption": "the person with the darker shoes is holding an emoji and the person with the lighter shoes isn't"}
+{"id": 70, "image": "ex_70_img_1", "caption": "the person with the lighter shoes is holding an emoji and the person with the darker shoes isn't"}
+{"id": 70, "image": "ex_70_img_1", "caption": "the person with the darker shoes is holding an emoji and the person with the lighter shoes isn't"}
+{"id": 71, "image": "ex_71_img_0", "caption": "the person wearing neutral colors poses and the person wearing brighter colors takes a picture"}
+{"id": 71, "image": "ex_71_img_0", "caption": "the person wearing brighter colors poses and the person wearing neutral colors takes a picture"}
+{"id": 71, "image": "ex_71_img_1", "caption": "the person wearing neutral colors poses and the person wearing brighter colors takes a picture"}
+{"id": 71, "image": "ex_71_img_1", "caption": "the person wearing brighter colors poses and the person wearing neutral colors takes a picture"}
+{"id": 72, "image": "ex_72_img_0", "caption": "it's a fire truck"}
+{"id": 72, "image": "ex_72_img_0", "caption": "it's a truck fire"}
+{"id": 72, "image": "ex_72_img_1", "caption": "it's a fire truck"}
+{"id": 72, "image": "ex_72_img_1", "caption": "it's a truck fire"}
+{"id": 73, "image": "ex_73_img_0", "caption": "watching the present"}
+{"id": 73, "image": "ex_73_img_0", "caption": "presenting the watch"}
+{"id": 73, "image": "ex_73_img_1", "caption": "watching the present"}
+{"id": 73, "image": "ex_73_img_1", "caption": "presenting the watch"}
+{"id": 74, "image": "ex_74_img_0", "caption": "walking out on a rock"}
+{"id": 74, "image": "ex_74_img_0", "caption": "rocking out on a walk"}
+{"id": 74, "image": "ex_74_img_1", "caption": "walking out on a rock"}
+{"id": 74, "image": "ex_74_img_1", "caption": "rocking out on a walk"}
+{"id": 75, "image": "ex_75_img_0", "caption": "the kid with the magnifying glass looks at them"}
+{"id": 75, "image": "ex_75_img_0", "caption": "the kid looks at them with the magnifying glass"}
+{"id": 75, "image": "ex_75_img_1", "caption": "the kid with the magnifying glass looks at them"}
+{"id": 75, "image": "ex_75_img_1", "caption": "the kid looks at them with the magnifying glass"}
+{"id": 76, "image": "ex_76_img_0", "caption": "the person with the kids is sitting"}
+{"id": 76, "image": "ex_76_img_0", "caption": "the person is sitting with the kids"}
+{"id": 76, "image": "ex_76_img_1", "caption": "the person with the kids is sitting"}
+{"id": 76, "image": "ex_76_img_1", "caption": "the person is sitting with the kids"}
+{"id": 77, "image": "ex_77_img_0", "caption": "the people with shoes are touching each other"}
+{"id": 77, "image": "ex_77_img_0", "caption": "the people are touching each other with shoes"}
+{"id": 77, "image": "ex_77_img_1", "caption": "the people with shoes are touching each other"}
+{"id": 77, "image": "ex_77_img_1", "caption": "the people are touching each other with shoes"}
+{"id": 78, "image": "ex_78_img_0", "caption": "someone with an apple is hurt by a tree"}
+{"id": 78, "image": "ex_78_img_0", "caption": "someone is hurt by a tree with an apple"}
+{"id": 78, "image": "ex_78_img_1", "caption": "someone with an apple is hurt by a tree"}
+{"id": 78, "image": "ex_78_img_1", "caption": "someone is hurt by a tree with an apple"}
+{"id": 79, "image": "ex_79_img_0", "caption": "the person that is on the table is eating the food"}
+{"id": 79, "image": "ex_79_img_0", "caption": "the person is eating the food that is on the table"}
+{"id": 79, "image": "ex_79_img_1", "caption": "the person that is on the table is eating the food"}
+{"id": 79, "image": "ex_79_img_1", "caption": "the person is eating the food that is on the table"}
+{"id": 80, "image": "ex_80_img_0", "caption": "the watering can is larger than the pot"}
+{"id": 80, "image": "ex_80_img_0", "caption": "the pot is larger than the watering can"}
+{"id": 80, "image": "ex_80_img_1", "caption": "the watering can is larger than the pot"}
+{"id": 80, "image": "ex_80_img_1", "caption": "the pot is larger than the watering can"}
+{"id": 81, "image": "ex_81_img_0", "caption": "they hold a suitcase handle with their left hand and they hold a passport with their right hand"}
+{"id": 81, "image": "ex_81_img_0", "caption": "they hold a passport with their left hand and they hold a suitcase handle with their right hand"}
+{"id": 81, "image": "ex_81_img_1", "caption": "they hold a suitcase handle with their left hand and they hold a passport with their right hand"}
+{"id": 81, "image": "ex_81_img_1", "caption": "they hold a passport with their left hand and they hold a suitcase handle with their right hand"}
+{"id": 82, "image": "ex_82_img_0", "caption": "the person with the patterned shirt is curly-haired and the other is straight-haired"}
+{"id": 82, "image": "ex_82_img_0", "caption": "the person with the patterned shirt is straight-haired and the other is curly-haired"}
+{"id": 82, "image": "ex_82_img_1", "caption": "the person with the patterned shirt is curly-haired and the other is straight-haired"}
+{"id": 82, "image": "ex_82_img_1", "caption": "the person with the patterned shirt is straight-haired and the other is curly-haired"}
+{"id": 83, "image": "ex_83_img_0", "caption": "a diagram showing movement from right to left"}
+{"id": 83, "image": "ex_83_img_0", "caption": "a diagram showing movement from left to right"}
+{"id": 83, "image": "ex_83_img_1", "caption": "a diagram showing movement from right to left"}
+{"id": 83, "image": "ex_83_img_1", "caption": "a diagram showing movement from left to right"}
+{"id": 84, "image": "ex_84_img_0", "caption": "the flip flops are too big for these feet"}
+{"id": 84, "image": "ex_84_img_0", "caption": "the feet are too big for these flip flops"}
+{"id": 84, "image": "ex_84_img_1", "caption": "the flip flops are too big for these feet"}
+{"id": 84, "image": "ex_84_img_1", "caption": "the feet are too big for these flip flops"}
+{"id": 85, "image": "ex_85_img_0", "caption": "the person who is wearing a crown is kissing a frog"}
+{"id": 85, "image": "ex_85_img_0", "caption": "the person is kissing a frog who is wearing a crown"}
+{"id": 85, "image": "ex_85_img_1", "caption": "the person who is wearing a crown is kissing a frog"}
+{"id": 85, "image": "ex_85_img_1", "caption": "the person is kissing a frog who is wearing a crown"}
+{"id": 86, "image": "ex_86_img_0", "caption": "a dog sitting on a couch with a person lying on the floor"}
+{"id": 86, "image": "ex_86_img_0", "caption": "a person lying on a couch with a dog sitting on the floor"}
+{"id": 86, "image": "ex_86_img_1", "caption": "a dog sitting on a couch with a person lying on the floor"}
+{"id": 86, "image": "ex_86_img_1", "caption": "a person lying on a couch with a dog sitting on the floor"}
+{"id": 87, "image": "ex_87_img_0", "caption": "The uncaged bird has an opened cage door"}
+{"id": 87, "image": "ex_87_img_0", "caption": "The caged bird has an unopened cage door"}
+{"id": 87, "image": "ex_87_img_1", "caption": "The uncaged bird has an opened cage door"}
+{"id": 87, "image": "ex_87_img_1", "caption": "The caged bird has an unopened cage door"}
+{"id": 88, "image": "ex_88_img_0", "caption": "meat with potatoes"}
+{"id": 88, "image": "ex_88_img_0", "caption": "potatoes with meat"}
+{"id": 88, "image": "ex_88_img_1", "caption": "meat with potatoes"}
+{"id": 88, "image": "ex_88_img_1", "caption": "potatoes with meat"}
+{"id": 89, "image": "ex_89_img_0", "caption": "the person in pink was close to not winning"}
+{"id": 89, "image": "ex_89_img_0", "caption": "the person in pink was not close to winning"}
+{"id": 89, "image": "ex_89_img_1", "caption": "the person in pink was close to not winning"}
+{"id": 89, "image": "ex_89_img_1", "caption": "the person in pink was not close to winning"}
+{"id": 90, "image": "ex_90_img_0", "caption": "two humans and one wheel"}
+{"id": 90, "image": "ex_90_img_0", "caption": "two wheels and one human"}
+{"id": 90, "image": "ex_90_img_1", "caption": "two humans and one wheel"}
+{"id": 90, "image": "ex_90_img_1", "caption": "two wheels and one human"}
+{"id": 91, "image": "ex_91_img_0", "caption": "clothing on lines"}
+{"id": 91, "image": "ex_91_img_0", "caption": "lines on clothing"}
+{"id": 91, "image": "ex_91_img_1", "caption": "clothing on lines"}
+{"id": 91, "image": "ex_91_img_1", "caption": "lines on clothing"}
+{"id": 92, "image": "ex_92_img_0", "caption": "someone talks on the phone angrily while another person sits happily"}
+{"id": 92, "image": "ex_92_img_0", "caption": "someone talks on the phone happily while another person sits angrily"}
+{"id": 92, "image": "ex_92_img_1", "caption": "someone talks on the phone angrily while another person sits happily"}
+{"id": 92, "image": "ex_92_img_1", "caption": "someone talks on the phone happily while another person sits angrily"}
+{"id": 93, "image": "ex_93_img_0", "caption": "two boats and one direction down the stream"}
+{"id": 93, "image": "ex_93_img_0", "caption": "one boat and two directions down the stream"}
+{"id": 93, "image": "ex_93_img_1", "caption": "two boats and one direction down the stream"}
+{"id": 93, "image": "ex_93_img_1", "caption": "one boat and two directions down the stream"}
+{"id": 94, "image": "ex_94_img_0", "caption": "The dog rides without a visible tongue"}
+{"id": 94, "image": "ex_94_img_0", "caption": "The dog rides with a visible tongue out"}
+{"id": 94, "image": "ex_94_img_1", "caption": "The dog rides without a visible tongue"}
+{"id": 94, "image": "ex_94_img_1", "caption": "The dog rides with a visible tongue out"}
+{"id": 95, "image": "ex_95_img_0", "caption": "handing a hammer"}
+{"id": 95, "image": "ex_95_img_0", "caption": "hammering a hand"}
+{"id": 95, "image": "ex_95_img_1", "caption": "handing a hammer"}
+{"id": 95, "image": "ex_95_img_1", "caption": "hammering a hand"}
+{"id": 96, "image": "ex_96_img_0", "caption": "leaves its shedding"}
+{"id": 96, "image": "ex_96_img_0", "caption": "shedding its leaves"}
+{"id": 96, "image": "ex_96_img_1", "caption": "leaves its shedding"}
+{"id": 96, "image": "ex_96_img_1", "caption": "shedding its leaves"}
+{"id": 97, "image": "ex_97_img_0", "caption": "they are using no bait but still got fish"}
+{"id": 97, "image": "ex_97_img_0", "caption": "they are using bait but still got no fish"}
+{"id": 97, "image": "ex_97_img_1", "caption": "they are using no bait but still got fish"}
+{"id": 97, "image": "ex_97_img_1", "caption": "they are using bait but still got no fish"}
+{"id": 98, "image": "ex_98_img_0", "caption": "someone on the ground is spraying water towards a vehicle"}
+{"id": 98, "image": "ex_98_img_0", "caption": "someone is on a vehicle spraying water towards the ground"}
+{"id": 98, "image": "ex_98_img_1", "caption": "someone on the ground is spraying water towards a vehicle"}
+{"id": 98, "image": "ex_98_img_1", "caption": "someone is on a vehicle spraying water towards the ground"}
+{"id": 99, "image": "ex_99_img_0", "caption": "the dog wears as a hat what someone would normally bite"}
+{"id": 99, "image": "ex_99_img_0", "caption": "the dog bites what someone would normally wear as a hat"}
+{"id": 99, "image": "ex_99_img_1", "caption": "the dog wears as a hat what someone would normally bite"}
+{"id": 99, "image": "ex_99_img_1", "caption": "the dog bites what someone would normally wear as a hat"}
+{"id": 100, "image": "ex_100_img_0", "caption": "the happy one is on the left and the upset one is on the right"}
+{"id": 100, "image": "ex_100_img_0", "caption": "the upset one is on the left and the happy one is on the right"}
+{"id": 100, "image": "ex_100_img_1", "caption": "the happy one is on the left and the upset one is on the right"}
+{"id": 100, "image": "ex_100_img_1", "caption": "the upset one is on the left and the happy one is on the right"}
+{"id": 101, "image": "ex_101_img_0", "caption": "fake mustache and real hair on head"}
+{"id": 101, "image": "ex_101_img_0", "caption": "real mustache and fake hair on head"}
+{"id": 101, "image": "ex_101_img_1", "caption": "fake mustache and real hair on head"}
+{"id": 101, "image": "ex_101_img_1", "caption": "real mustache and fake hair on head"}
+{"id": 102, "image": "ex_102_img_0", "caption": "real cat with toy baby"}
+{"id": 102, "image": "ex_102_img_0", "caption": "toy cat with real baby"}
+{"id": 102, "image": "ex_102_img_1", "caption": "real cat with toy baby"}
+{"id": 102, "image": "ex_102_img_1", "caption": "toy cat with real baby"}
+{"id": 103, "image": "ex_103_img_0", "caption": "the lion is loud and the lionness is quiet"}
+{"id": 103, "image": "ex_103_img_0", "caption": "the lion is quiet and the lionness is loud"}
+{"id": 103, "image": "ex_103_img_1", "caption": "the lion is loud and the lionness is quiet"}
+{"id": 103, "image": "ex_103_img_1", "caption": "the lion is quiet and the lionness is loud"}
+{"id": 104, "image": "ex_104_img_0", "caption": "there is a pink couch with green pillows"}
+{"id": 104, "image": "ex_104_img_0", "caption": "there is a green couch with pink pillows"}
+{"id": 104, "image": "ex_104_img_1", "caption": "there is a pink couch with green pillows"}
+{"id": 104, "image": "ex_104_img_1", "caption": "there is a green couch with pink pillows"}
+{"id": 105, "image": "ex_105_img_0", "caption": "light colored dog with dark colored cat"}
+{"id": 105, "image": "ex_105_img_0", "caption": "dark colored dog with light colored cat"}
+{"id": 105, "image": "ex_105_img_1", "caption": "light colored dog with dark colored cat"}
+{"id": 105, "image": "ex_105_img_1", "caption": "dark colored dog with light colored cat"}
+{"id": 106, "image": "ex_106_img_0", "caption": "someone is wearing a black hat and yellow shirt"}
+{"id": 106, "image": "ex_106_img_0", "caption": "someone is wearing a yellow hat and black shirt"}
+{"id": 106, "image": "ex_106_img_1", "caption": "someone is wearing a black hat and yellow shirt"}
+{"id": 106, "image": "ex_106_img_1", "caption": "someone is wearing a yellow hat and black shirt"}
+{"id": 107, "image": "ex_107_img_0", "caption": "black socks and orange shoes"}
+{"id": 107, "image": "ex_107_img_0", "caption": "orange socks and black shoes"}
+{"id": 107, "image": "ex_107_img_1", "caption": "black socks and orange shoes"}
+{"id": 107, "image": "ex_107_img_1", "caption": "orange socks and black shoes"}
+{"id": 108, "image": "ex_108_img_0", "caption": "red building with white shutters"}
+{"id": 108, "image": "ex_108_img_0", "caption": "white building with red shutters"}
+{"id": 108, "image": "ex_108_img_1", "caption": "red building with white shutters"}
+{"id": 108, "image": "ex_108_img_1", "caption": "white building with red shutters"}
+{"id": 109, "image": "ex_109_img_0", "caption": "blue pants and green top"}
+{"id": 109, "image": "ex_109_img_0", "caption": "green pants and blue top"}
+{"id": 109, "image": "ex_109_img_1", "caption": "blue pants and green top"}
+{"id": 109, "image": "ex_109_img_1", "caption": "green pants and blue top"}
+{"id": 110, "image": "ex_110_img_0", "caption": "there's one blue and many yellow balls"}
+{"id": 110, "image": "ex_110_img_0", "caption": "there's one yellow and many blue balls"}
+{"id": 110, "image": "ex_110_img_1", "caption": "there's one blue and many yellow balls"}
+{"id": 110, "image": "ex_110_img_1", "caption": "there's one yellow and many blue balls"}
+{"id": 111, "image": "ex_111_img_0", "caption": "there are more silver coins than gold coins"}
+{"id": 111, "image": "ex_111_img_0", "caption": "there are more gold coins than silver coins"}
+{"id": 111, "image": "ex_111_img_1", "caption": "there are more silver coins than gold coins"}
+{"id": 111, "image": "ex_111_img_1", "caption": "there are more gold coins than silver coins"}
+{"id": 112, "image": "ex_112_img_0", "caption": "the red team kicking the ball directly next to the blue team"}
+{"id": 112, "image": "ex_112_img_0", "caption": "the blue team kicking the ball directly next to the red team"}
+{"id": 112, "image": "ex_112_img_1", "caption": "the red team kicking the ball directly next to the blue team"}
+{"id": 112, "image": "ex_112_img_1", "caption": "the blue team kicking the ball directly next to the red team"}
+{"id": 113, "image": "ex_113_img_0", "caption": "black dog wearing a brown sweater"}
+{"id": 113, "image": "ex_113_img_0", "caption": "brown dog wearing a black sweater"}
+{"id": 113, "image": "ex_113_img_1", "caption": "black dog wearing a brown sweater"}
+{"id": 113, "image": "ex_113_img_1", "caption": "brown dog wearing a black sweater"}
+{"id": 114, "image": "ex_114_img_0", "caption": "one green apple surrounded by a bunch of red apples"}
+{"id": 114, "image": "ex_114_img_0", "caption": "one red apple surrounded by a bunch of green apples"}
+{"id": 114, "image": "ex_114_img_1", "caption": "one green apple surrounded by a bunch of red apples"}
+{"id": 114, "image": "ex_114_img_1", "caption": "one red apple surrounded by a bunch of green apples"}
+{"id": 115, "image": "ex_115_img_0", "caption": "person in white is reading the orange book"}
+{"id": 115, "image": "ex_115_img_0", "caption": "person in orange is reading the white book"}
+{"id": 115, "image": "ex_115_img_1", "caption": "person in white is reading the orange book"}
+{"id": 115, "image": "ex_115_img_1", "caption": "person in orange is reading the white book"}
+{"id": 116, "image": "ex_116_img_0", "caption": "the children are being quiet while the adult is loud"}
+{"id": 116, "image": "ex_116_img_0", "caption": "the children are being loud while the adult is quiet"}
+{"id": 116, "image": "ex_116_img_1", "caption": "the children are being quiet while the adult is loud"}
+{"id": 116, "image": "ex_116_img_1", "caption": "the children are being loud while the adult is quiet"}
+{"id": 117, "image": "ex_117_img_0", "caption": "the circular mirror is on the left and the rectangular mirror is on the right"}
+{"id": 117, "image": "ex_117_img_0", "caption": "the rectangular mirror is on the left and the circular mirror is on the right"}
+{"id": 117, "image": "ex_117_img_1", "caption": "the circular mirror is on the left and the rectangular mirror is on the right"}
+{"id": 117, "image": "ex_117_img_1", "caption": "the rectangular mirror is on the left and the circular mirror is on the right"}
+{"id": 118, "image": "ex_118_img_0", "caption": "circular food on heart-shaped wood"}
+{"id": 118, "image": "ex_118_img_0", "caption": "heart-shaped food on circular wood"}
+{"id": 118, "image": "ex_118_img_1", "caption": "circular food on heart-shaped wood"}
+{"id": 118, "image": "ex_118_img_1", "caption": "heart-shaped food on circular wood"}
+{"id": 119, "image": "ex_119_img_0", "caption": "the dress on the left is long and the dress on the right is short"}
+{"id": 119, "image": "ex_119_img_0", "caption": "the dress on the left is short and the dress on the right is long"}
+{"id": 119, "image": "ex_119_img_1", "caption": "the dress on the left is long and the dress on the right is short"}
+{"id": 119, "image": "ex_119_img_1", "caption": "the dress on the left is short and the dress on the right is long"}
+{"id": 120, "image": "ex_120_img_0", "caption": "the balloon in the middle has less air and the other balloons have more air"}
+{"id": 120, "image": "ex_120_img_0", "caption": "the balloon in the middle has more air and the other balloons have less air"}
+{"id": 120, "image": "ex_120_img_1", "caption": "the balloon in the middle has less air and the other balloons have more air"}
+{"id": 120, "image": "ex_120_img_1", "caption": "the balloon in the middle has more air and the other balloons have less air"}
+{"id": 121, "image": "ex_121_img_0", "caption": "the pool has no people and the area around it has a lot of people"}
+{"id": 121, "image": "ex_121_img_0", "caption": "the pool has a lot of people and the area around it has no people"}
+{"id": 121, "image": "ex_121_img_1", "caption": "the pool has no people and the area around it has a lot of people"}
+{"id": 121, "image": "ex_121_img_1", "caption": "the pool has a lot of people and the area around it has no people"}
+{"id": 122, "image": "ex_122_img_0", "caption": "big fish beside a small person"}
+{"id": 122, "image": "ex_122_img_0", "caption": "small fish beside a big person"}
+{"id": 122, "image": "ex_122_img_1", "caption": "big fish beside a small person"}
+{"id": 122, "image": "ex_122_img_1", "caption": "small fish beside a big person"}
+{"id": 123, "image": "ex_123_img_0", "caption": "the train is moving fast while the person is still"}
+{"id": 123, "image": "ex_123_img_0", "caption": "the train is still while the person is moving fast"}
+{"id": 123, "image": "ex_123_img_1", "caption": "the train is moving fast while the person is still"}
+{"id": 123, "image": "ex_123_img_1", "caption": "the train is still while the person is moving fast"}
+{"id": 124, "image": "ex_124_img_0", "caption": "they're enjoying hot water on a cold day"}
+{"id": 124, "image": "ex_124_img_0", "caption": "they're enjoying cold water on a hot day"}
+{"id": 124, "image": "ex_124_img_1", "caption": "they're enjoying hot water on a cold day"}
+{"id": 124, "image": "ex_124_img_1", "caption": "they're enjoying cold water on a hot day"}
+{"id": 125, "image": "ex_125_img_0", "caption": "concrete floors with wood walls"}
+{"id": 125, "image": "ex_125_img_0", "caption": "wood floors with concrete walls"}
+{"id": 125, "image": "ex_125_img_1", "caption": "concrete floors with wood walls"}
+{"id": 125, "image": "ex_125_img_1", "caption": "wood floors with concrete walls"}
+{"id": 126, "image": "ex_126_img_0", "caption": "the person on the left has curly hair and the person on the right has straight hair"}
+{"id": 126, "image": "ex_126_img_0", "caption": "the person on the left has straight hair and the person on the right has curly hair"}
+{"id": 126, "image": "ex_126_img_1", "caption": "the person on the left has curly hair and the person on the right has straight hair"}
+{"id": 126, "image": "ex_126_img_1", "caption": "the person on the left has straight hair and the person on the right has curly hair"}
+{"id": 127, "image": "ex_127_img_0", "caption": "there's a metal bottle with a plastic lid"}
+{"id": 127, "image": "ex_127_img_0", "caption": "there's a plastic bottle with a metal lid"}
+{"id": 127, "image": "ex_127_img_1", "caption": "there's a metal bottle with a plastic lid"}
+{"id": 127, "image": "ex_127_img_1", "caption": "there's a plastic bottle with a metal lid"}
+{"id": 128, "image": "ex_128_img_0", "caption": "the fruit is heavy while the junk food is light"}
+{"id": 128, "image": "ex_128_img_0", "caption": "the fruit is light while the junk food is heavy"}
+{"id": 128, "image": "ex_128_img_1", "caption": "the fruit is heavy while the junk food is light"}
+{"id": 128, "image": "ex_128_img_1", "caption": "the fruit is light while the junk food is heavy"}
+{"id": 129, "image": "ex_129_img_0", "caption": "the car is sitting upside down while the person is standing rightside up"}
+{"id": 129, "image": "ex_129_img_0", "caption": "the car is sitting rightside up while the person is standing upside down"}
+{"id": 129, "image": "ex_129_img_1", "caption": "the car is sitting upside down while the person is standing rightside up"}
+{"id": 129, "image": "ex_129_img_1", "caption": "the car is sitting rightside up while the person is standing upside down"}
+{"id": 130, "image": "ex_130_img_0", "caption": "the cup on the left is filled first and the cup on the right is filled second"}
+{"id": 130, "image": "ex_130_img_0", "caption": "the cup on the left is filled second and the cup on the right is filled first"}
+{"id": 130, "image": "ex_130_img_1", "caption": "the cup on the left is filled first and the cup on the right is filled second"}
+{"id": 130, "image": "ex_130_img_1", "caption": "the cup on the left is filled second and the cup on the right is filled first"}
+{"id": 131, "image": "ex_131_img_0", "caption": "milk cow"}
+{"id": 131, "image": "ex_131_img_0", "caption": "cow milk"}
+{"id": 131, "image": "ex_131_img_1", "caption": "milk cow"}
+{"id": 131, "image": "ex_131_img_1", "caption": "cow milk"}
+{"id": 132, "image": "ex_132_img_0", "caption": "there is a clock wall"}
+{"id": 132, "image": "ex_132_img_0", "caption": "there is a wall clock"}
+{"id": 132, "image": "ex_132_img_1", "caption": "there is a clock wall"}
+{"id": 132, "image": "ex_132_img_1", "caption": "there is a wall clock"}
+{"id": 133, "image": "ex_133_img_0", "caption": "there is a split banana"}
+{"id": 133, "image": "ex_133_img_0", "caption": "there is a banana split"}
+{"id": 133, "image": "ex_133_img_1", "caption": "there is a split banana"}
+{"id": 133, "image": "ex_133_img_1", "caption": "there is a banana split"}
+{"id": 134, "image": "ex_134_img_0", "caption": "there are two people and a bunch of horses"}
+{"id": 134, "image": "ex_134_img_0", "caption": "there are a bunch of people and two horses"}
+{"id": 134, "image": "ex_134_img_1", "caption": "there are two people and a bunch of horses"}
+{"id": 134, "image": "ex_134_img_1", "caption": "there are a bunch of people and two horses"}
+{"id": 135, "image": "ex_135_img_0", "caption": "three white and two brown eggs"}
+{"id": 135, "image": "ex_135_img_0", "caption": "two white and three brown eggs"}
+{"id": 135, "image": "ex_135_img_1", "caption": "three white and two brown eggs"}
+{"id": 135, "image": "ex_135_img_1", "caption": "two white and three brown eggs"}
+{"id": 136, "image": "ex_136_img_0", "caption": "the plastic is in the fish"}
+{"id": 136, "image": "ex_136_img_0", "caption": "the fish is in the plastic"}
+{"id": 136, "image": "ex_136_img_1", "caption": "the plastic is in the fish"}
+{"id": 136, "image": "ex_136_img_1", "caption": "the fish is in the plastic"}
+{"id": 137, "image": "ex_137_img_0", "caption": "the dog's paw is on the cat's face"}
+{"id": 137, "image": "ex_137_img_0", "caption": "the cat's paw is on the dog's face"}
+{"id": 137, "image": "ex_137_img_1", "caption": "the dog's paw is on the cat's face"}
+{"id": 137, "image": "ex_137_img_1", "caption": "the cat's paw is on the dog's face"}
+{"id": 138, "image": "ex_138_img_0", "caption": "the computer's screen is on and the phone's screen is off"}
+{"id": 138, "image": "ex_138_img_0", "caption": "the phone's screen is on and the computer's screen is off"}
+{"id": 138, "image": "ex_138_img_1", "caption": "the computer's screen is on and the phone's screen is off"}
+{"id": 138, "image": "ex_138_img_1", "caption": "the phone's screen is on and the computer's screen is off"}
+{"id": 139, "image": "ex_139_img_0", "caption": "the dog is in the driver's seat and the person is in the passenger's seat"}
+{"id": 139, "image": "ex_139_img_0", "caption": "the dog is in the passenger's seat and the person is in the driver's seat"}
+{"id": 139, "image": "ex_139_img_1", "caption": "the dog is in the driver's seat and the person is in the passenger's seat"}
+{"id": 139, "image": "ex_139_img_1", "caption": "the dog is in the passenger's seat and the person is in the driver's seat"}
+{"id": 140, "image": "ex_140_img_0", "caption": "there are more trees than people"}
+{"id": 140, "image": "ex_140_img_0", "caption": "there are more people than trees"}
+{"id": 140, "image": "ex_140_img_1", "caption": "there are more trees than people"}
+{"id": 140, "image": "ex_140_img_1", "caption": "there are more people than trees"}
+{"id": 141, "image": "ex_141_img_0", "caption": "there are more computers than people"}
+{"id": 141, "image": "ex_141_img_0", "caption": "there are more people than computers"}
+{"id": 141, "image": "ex_141_img_1", "caption": "there are more computers than people"}
+{"id": 141, "image": "ex_141_img_1", "caption": "there are more people than computers"}
+{"id": 142, "image": "ex_142_img_0", "caption": "there is more wood than metal"}
+{"id": 142, "image": "ex_142_img_0", "caption": "there is more metal than wood"}
+{"id": 142, "image": "ex_142_img_1", "caption": "there is more wood than metal"}
+{"id": 142, "image": "ex_142_img_1", "caption": "there is more metal than wood"}
+{"id": 143, "image": "ex_143_img_0", "caption": "there are more hats than people"}
+{"id": 143, "image": "ex_143_img_0", "caption": "there are more people than hats"}
+{"id": 143, "image": "ex_143_img_1", "caption": "there are more hats than people"}
+{"id": 143, "image": "ex_143_img_1", "caption": "there are more people than hats"}
+{"id": 144, "image": "ex_144_img_0", "caption": "there are more people than stools"}
+{"id": 144, "image": "ex_144_img_0", "caption": "there are more stools than people"}
+{"id": 144, "image": "ex_144_img_1", "caption": "there are more people than stools"}
+{"id": 144, "image": "ex_144_img_1", "caption": "there are more stools than people"}
+{"id": 145, "image": "ex_145_img_0", "caption": "there is more red wine than white wine"}
+{"id": 145, "image": "ex_145_img_0", "caption": "there is more white wine than red wine"}
+{"id": 145, "image": "ex_145_img_1", "caption": "there is more red wine than white wine"}
+{"id": 145, "image": "ex_145_img_1", "caption": "there is more white wine than red wine"}
+{"id": 146, "image": "ex_146_img_0", "caption": "there's more milk than coffee"}
+{"id": 146, "image": "ex_146_img_0", "caption": "there's more coffee than milk"}
+{"id": 146, "image": "ex_146_img_1", "caption": "there's more milk than coffee"}
+{"id": 146, "image": "ex_146_img_1", "caption": "there's more coffee than milk"}
+{"id": 147, "image": "ex_147_img_0", "caption": "there's more cereal in the bowl than milk"}
+{"id": 147, "image": "ex_147_img_0", "caption": "there's more milk in the bowl than cereal"}
+{"id": 147, "image": "ex_147_img_1", "caption": "there's more cereal in the bowl than milk"}
+{"id": 147, "image": "ex_147_img_1", "caption": "there's more milk in the bowl than cereal"}
+{"id": 148, "image": "ex_148_img_0", "caption": "boat sail"}
+{"id": 148, "image": "ex_148_img_0", "caption": "sail boat"}
+{"id": 148, "image": "ex_148_img_1", "caption": "boat sail"}
+{"id": 148, "image": "ex_148_img_1", "caption": "sail boat"}
+{"id": 149, "image": "ex_149_img_0", "caption": "boat house"}
+{"id": 149, "image": "ex_149_img_0", "caption": "house boat"}
+{"id": 149, "image": "ex_149_img_1", "caption": "boat house"}
+{"id": 149, "image": "ex_149_img_1", "caption": "house boat"}
+{"id": 150, "image": "ex_150_img_0", "caption": "check a rip"}
+{"id": 150, "image": "ex_150_img_0", "caption": "rip a check"}
+{"id": 150, "image": "ex_150_img_1", "caption": "check a rip"}
+{"id": 150, "image": "ex_150_img_1", "caption": "rip a check"}
+{"id": 151, "image": "ex_151_img_0", "caption": "dress the display"}
+{"id": 151, "image": "ex_151_img_0", "caption": "display the dress"}
+{"id": 151, "image": "ex_151_img_1", "caption": "dress the display"}
+{"id": 151, "image": "ex_151_img_1", "caption": "display the dress"}
+{"id": 152, "image": "ex_152_img_0", "caption": "spoon holding honey"}
+{"id": 152, "image": "ex_152_img_0", "caption": "honey holding spoon"}
+{"id": 152, "image": "ex_152_img_1", "caption": "spoon holding honey"}
+{"id": 152, "image": "ex_152_img_1", "caption": "honey holding spoon"}
+{"id": 153, "image": "ex_153_img_0", "caption": "books holding up a person"}
+{"id": 153, "image": "ex_153_img_0", "caption": "a person holding up books"}
+{"id": 153, "image": "ex_153_img_1", "caption": "books holding up a person"}
+{"id": 153, "image": "ex_153_img_1", "caption": "a person holding up books"}
+{"id": 154, "image": "ex_154_img_0", "caption": "a dog is using a wheelchair next to a person"}
+{"id": 154, "image": "ex_154_img_0", "caption": "a person is using a wheelchair next to a dog"}
+{"id": 154, "image": "ex_154_img_1", "caption": "a dog is using a wheelchair next to a person"}
+{"id": 154, "image": "ex_154_img_1", "caption": "a person is using a wheelchair next to a dog"}
+{"id": 155, "image": "ex_155_img_0", "caption": "some plants surrounding a lightbulb"}
+{"id": 155, "image": "ex_155_img_0", "caption": "a lightbulb surrounding some plants"}
+{"id": 155, "image": "ex_155_img_1", "caption": "some plants surrounding a lightbulb"}
+{"id": 155, "image": "ex_155_img_1", "caption": "a lightbulb surrounding some plants"}
+{"id": 156, "image": "ex_156_img_0", "caption": "a more lightly-colored dog is holding a toy next to a black dog"}
+{"id": 156, "image": "ex_156_img_0", "caption": "a black dog is holding a toy next to a more lightly-colored dog"}
+{"id": 156, "image": "ex_156_img_1", "caption": "a more lightly-colored dog is holding a toy next to a black dog"}
+{"id": 156, "image": "ex_156_img_1", "caption": "a black dog is holding a toy next to a more lightly-colored dog"}
+{"id": 157, "image": "ex_157_img_0", "caption": "the flowers are taller than the people"}
+{"id": 157, "image": "ex_157_img_0", "caption": "the people are taller than the flowers"}
+{"id": 157, "image": "ex_157_img_1", "caption": "the flowers are taller than the people"}
+{"id": 157, "image": "ex_157_img_1", "caption": "the people are taller than the flowers"}
+{"id": 158, "image": "ex_158_img_0", "caption": "there's a human in a stroller next to a dog"}
+{"id": 158, "image": "ex_158_img_0", "caption": "there's a dog in a stroller next to a human"}
+{"id": 158, "image": "ex_158_img_1", "caption": "there's a human in a stroller next to a dog"}
+{"id": 158, "image": "ex_158_img_1", "caption": "there's a dog in a stroller next to a human"}
+{"id": 159, "image": "ex_159_img_0", "caption": "a person is casting a shadow beside a ball"}
+{"id": 159, "image": "ex_159_img_0", "caption": "a ball is casting a shadow beside a person"}
+{"id": 159, "image": "ex_159_img_1", "caption": "a person is casting a shadow beside a ball"}
+{"id": 159, "image": "ex_159_img_1", "caption": "a ball is casting a shadow beside a person"}
+{"id": 160, "image": "ex_160_img_0", "caption": "its tail is shorter than its body"}
+{"id": 160, "image": "ex_160_img_0", "caption": "its body is shorter than its tail"}
+{"id": 160, "image": "ex_160_img_1", "caption": "its tail is shorter than its body"}
+{"id": 160, "image": "ex_160_img_1", "caption": "its body is shorter than its tail"}
+{"id": 161, "image": "ex_161_img_0", "caption": "the child is throwing the adult the ball"}
+{"id": 161, "image": "ex_161_img_0", "caption": "the adult is throwing the child the ball"}
+{"id": 161, "image": "ex_161_img_1", "caption": "the child is throwing the adult the ball"}
+{"id": 161, "image": "ex_161_img_1", "caption": "the adult is throwing the child the ball"}
+{"id": 162, "image": "ex_162_img_0", "caption": "a person underneath lights"}
+{"id": 162, "image": "ex_162_img_0", "caption": "lights underneath a person"}
+{"id": 162, "image": "ex_162_img_1", "caption": "a person underneath lights"}
+{"id": 162, "image": "ex_162_img_1", "caption": "lights underneath a person"}
+{"id": 163, "image": "ex_163_img_0", "caption": "some green on the ball"}
+{"id": 163, "image": "ex_163_img_0", "caption": "the ball on some green"}
+{"id": 163, "image": "ex_163_img_1", "caption": "some green on the ball"}
+{"id": 163, "image": "ex_163_img_1", "caption": "the ball on some green"}
+{"id": 164, "image": "ex_164_img_0", "caption": "mind in the clouds"}
+{"id": 164, "image": "ex_164_img_0", "caption": "clouds in the mind"}
+{"id": 164, "image": "ex_164_img_1", "caption": "mind in the clouds"}
+{"id": 164, "image": "ex_164_img_1", "caption": "clouds in the mind"}
+{"id": 165, "image": "ex_165_img_0", "caption": "there's a phone on a map"}
+{"id": 165, "image": "ex_165_img_0", "caption": "there's a map on a phone"}
+{"id": 165, "image": "ex_165_img_1", "caption": "there's a phone on a map"}
+{"id": 165, "image": "ex_165_img_1", "caption": "there's a map on a phone"}
+{"id": 166, "image": "ex_166_img_0", "caption": "a person on a rock next to a dog"}
+{"id": 166, "image": "ex_166_img_0", "caption": "a dog on a rock next to a person"}
+{"id": 166, "image": "ex_166_img_1", "caption": "a person on a rock next to a dog"}
+{"id": 166, "image": "ex_166_img_1", "caption": "a dog on a rock next to a person"}
+{"id": 167, "image": "ex_167_img_0", "caption": "an adult is flexing beside a child"}
+{"id": 167, "image": "ex_167_img_0", "caption": "a child is flexing beside an adult"}
+{"id": 167, "image": "ex_167_img_1", "caption": "an adult is flexing beside a child"}
+{"id": 167, "image": "ex_167_img_1", "caption": "a child is flexing beside an adult"}
+{"id": 168, "image": "ex_168_img_0", "caption": "the person is looking at the dog"}
+{"id": 168, "image": "ex_168_img_0", "caption": "the dog is looking at the person"}
+{"id": 168, "image": "ex_168_img_1", "caption": "the person is looking at the dog"}
+{"id": 168, "image": "ex_168_img_1", "caption": "the dog is looking at the person"}
+{"id": 169, "image": "ex_169_img_0", "caption": "a cat is underneath a red blanket"}
+{"id": 169, "image": "ex_169_img_0", "caption": "a red blanket is underneath a cat"}
+{"id": 169, "image": "ex_169_img_1", "caption": "a cat is underneath a red blanket"}
+{"id": 169, "image": "ex_169_img_1", "caption": "a red blanket is underneath a cat"}
+{"id": 170, "image": "ex_170_img_0", "caption": "the person is bigger than the house"}
+{"id": 170, "image": "ex_170_img_0", "caption": "the house is bigger than the person"}
+{"id": 170, "image": "ex_170_img_1", "caption": "the person is bigger than the house"}
+{"id": 170, "image": "ex_170_img_1", "caption": "the house is bigger than the person"}
+{"id": 171, "image": "ex_171_img_0", "caption": "the person is underneath the car"}
+{"id": 171, "image": "ex_171_img_0", "caption": "the car is underneath the person"}
+{"id": 171, "image": "ex_171_img_1", "caption": "the person is underneath the car"}
+{"id": 171, "image": "ex_171_img_1", "caption": "the car is underneath the person"}
+{"id": 172, "image": "ex_172_img_0", "caption": "the water is filled with plastic"}
+{"id": 172, "image": "ex_172_img_0", "caption": "the plastic is filled with water"}
+{"id": 172, "image": "ex_172_img_1", "caption": "the water is filled with plastic"}
+{"id": 172, "image": "ex_172_img_1", "caption": "the plastic is filled with water"}
+{"id": 173, "image": "ex_173_img_0", "caption": "an apple is on a target"}
+{"id": 173, "image": "ex_173_img_0", "caption": "a target is on an apple"}
+{"id": 173, "image": "ex_173_img_1", "caption": "an apple is on a target"}
+{"id": 173, "image": "ex_173_img_1", "caption": "a target is on an apple"}
+{"id": 174, "image": "ex_174_img_0", "caption": "plant made out of a light bulb"}
+{"id": 174, "image": "ex_174_img_0", "caption": "light bulb made out of a plant"}
+{"id": 174, "image": "ex_174_img_1", "caption": "plant made out of a light bulb"}
+{"id": 174, "image": "ex_174_img_1", "caption": "light bulb made out of a plant"}
+{"id": 175, "image": "ex_175_img_0", "caption": "parent pointing at child"}
+{"id": 175, "image": "ex_175_img_0", "caption": "child pointing at parent"}
+{"id": 175, "image": "ex_175_img_1", "caption": "parent pointing at child"}
+{"id": 175, "image": "ex_175_img_1", "caption": "child pointing at parent"}
+{"id": 176, "image": "ex_176_img_0", "caption": "the person reached the base before the ball"}
+{"id": 176, "image": "ex_176_img_0", "caption": "the ball reached the base before the person"}
+{"id": 176, "image": "ex_176_img_1", "caption": "the person reached the base before the ball"}
+{"id": 176, "image": "ex_176_img_1", "caption": "the ball reached the base before the person"}
+{"id": 177, "image": "ex_177_img_0", "caption": "ice being dumped on top of fish"}
+{"id": 177, "image": "ex_177_img_0", "caption": "fish being dumped on top of ice"}
+{"id": 177, "image": "ex_177_img_1", "caption": "ice being dumped on top of fish"}
+{"id": 177, "image": "ex_177_img_1", "caption": "fish being dumped on top of ice"}
+{"id": 178, "image": "ex_178_img_0", "caption": "an adult kisses a child"}
+{"id": 178, "image": "ex_178_img_0", "caption": "a child kisses an adult"}
+{"id": 178, "image": "ex_178_img_1", "caption": "an adult kisses a child"}
+{"id": 178, "image": "ex_178_img_1", "caption": "a child kisses an adult"}
+{"id": 179, "image": "ex_179_img_0", "caption": "there's a dog in a mask and a person beside it"}
+{"id": 179, "image": "ex_179_img_0", "caption": "there's a dog and a person in a mask beside it"}
+{"id": 179, "image": "ex_179_img_1", "caption": "there's a dog in a mask and a person beside it"}
+{"id": 179, "image": "ex_179_img_1", "caption": "there's a dog and a person in a mask beside it"}
+{"id": 180, "image": "ex_180_img_0", "caption": "the baby on the phone is next to an adult"}
+{"id": 180, "image": "ex_180_img_0", "caption": "the baby is next to an adult on the phone"}
+{"id": 180, "image": "ex_180_img_1", "caption": "the baby on the phone is next to an adult"}
+{"id": 180, "image": "ex_180_img_1", "caption": "the baby is next to an adult on the phone"}
+{"id": 181, "image": "ex_181_img_0", "caption": "the person on the left has their arms up and the person on the right has their arms down"}
+{"id": 181, "image": "ex_181_img_0", "caption": "the person on the right has their arms up and the person on the left has their arms down"}
+{"id": 181, "image": "ex_181_img_1", "caption": "the person on the left has their arms up and the person on the right has their arms down"}
+{"id": 181, "image": "ex_181_img_1", "caption": "the person on the right has their arms up and the person on the left has their arms down"}
+{"id": 182, "image": "ex_182_img_0", "caption": "the person on the left is holding the phone and the person on the right is staring at it"}
+{"id": 182, "image": "ex_182_img_0", "caption": "the person on the right is holding the phone and the person on the left is staring at it"}
+{"id": 182, "image": "ex_182_img_1", "caption": "the person on the left is holding the phone and the person on the right is staring at it"}
+{"id": 182, "image": "ex_182_img_1", "caption": "the person on the right is holding the phone and the person on the left is staring at it"}
+{"id": 183, "image": "ex_183_img_0", "caption": "the orange on the left is moldy while the orange on the right is fresh"}
+{"id": 183, "image": "ex_183_img_0", "caption": "the orange on the right is moldy while the orange on the left is fresh"}
+{"id": 183, "image": "ex_183_img_1", "caption": "the orange on the left is moldy while the orange on the right is fresh"}
+{"id": 183, "image": "ex_183_img_1", "caption": "the orange on the right is moldy while the orange on the left is fresh"}
+{"id": 184, "image": "ex_184_img_0", "caption": "a pink scoop of ice cream on top and a blue scoop on bottom"}
+{"id": 184, "image": "ex_184_img_0", "caption": "a pink scoop of ice cream on bottom and a blue scoop on top"}
+{"id": 184, "image": "ex_184_img_1", "caption": "a pink scoop of ice cream on top and a blue scoop on bottom"}
+{"id": 184, "image": "ex_184_img_1", "caption": "a pink scoop of ice cream on bottom and a blue scoop on top"}
+{"id": 185, "image": "ex_185_img_0", "caption": "the glasses on the right are fuller than the glasses on the left"}
+{"id": 185, "image": "ex_185_img_0", "caption": "the glasses on the left are fuller than the glasses on the right"}
+{"id": 185, "image": "ex_185_img_1", "caption": "the glasses on the right are fuller than the glasses on the left"}
+{"id": 185, "image": "ex_185_img_1", "caption": "the glasses on the left are fuller than the glasses on the right"}
+{"id": 186, "image": "ex_186_img_0", "caption": "the person on the left is blowing bubbles and the person on the right is watching"}
+{"id": 186, "image": "ex_186_img_0", "caption": "the person on the right is blowing bubbles and the person on the left is watching"}
+{"id": 186, "image": "ex_186_img_1", "caption": "the person on the left is blowing bubbles and the person on the right is watching"}
+{"id": 186, "image": "ex_186_img_1", "caption": "the person on the right is blowing bubbles and the person on the left is watching"}
+{"id": 187, "image": "ex_187_img_0", "caption": "there's more foam on the left than on the right"}
+{"id": 187, "image": "ex_187_img_0", "caption": "there's more foam on the right than on the left"}
+{"id": 187, "image": "ex_187_img_1", "caption": "there's more foam on the left than on the right"}
+{"id": 187, "image": "ex_187_img_1", "caption": "there's more foam on the right than on the left"}
+{"id": 188, "image": "ex_188_img_0", "caption": "a fish is jumping from left to right"}
+{"id": 188, "image": "ex_188_img_0", "caption": "a fish is jumping from right to left"}
+{"id": 188, "image": "ex_188_img_1", "caption": "a fish is jumping from left to right"}
+{"id": 188, "image": "ex_188_img_1", "caption": "a fish is jumping from right to left"}
+{"id": 189, "image": "ex_189_img_0", "caption": "they worked out then they drank water"}
+{"id": 189, "image": "ex_189_img_0", "caption": "they drank water then they worked out"}
+{"id": 189, "image": "ex_189_img_1", "caption": "they worked out then they drank water"}
+{"id": 189, "image": "ex_189_img_1", "caption": "they drank water then they worked out"}
+{"id": 190, "image": "ex_190_img_0", "caption": "the shrimp are peeled then the shrimp are cooked"}
+{"id": 190, "image": "ex_190_img_0", "caption": "the shrimp are cooked then the shrimp are peeled"}
+{"id": 190, "image": "ex_190_img_1", "caption": "the shrimp are peeled then the shrimp are cooked"}
+{"id": 190, "image": "ex_190_img_1", "caption": "the shrimp are cooked then the shrimp are peeled"}
+{"id": 191, "image": "ex_191_img_0", "caption": "the coffee is poured before it is ground"}
+{"id": 191, "image": "ex_191_img_0", "caption": "it is ground before the coffee is poured"}
+{"id": 191, "image": "ex_191_img_1", "caption": "the coffee is poured before it is ground"}
+{"id": 191, "image": "ex_191_img_1", "caption": "it is ground before the coffee is poured"}
+{"id": 192, "image": "ex_192_img_0", "caption": "the potato is washed and then it is cut"}
+{"id": 192, "image": "ex_192_img_0", "caption": "the potato is cut and then it is washed"}
+{"id": 192, "image": "ex_192_img_1", "caption": "the potato is washed and then it is cut"}
+{"id": 192, "image": "ex_192_img_1", "caption": "the potato is cut and then it is washed"}
+{"id": 193, "image": "ex_193_img_0", "caption": "the banana is peeled then it is sliced"}
+{"id": 193, "image": "ex_193_img_0", "caption": "the banana is sliced then it is peeled"}
+{"id": 193, "image": "ex_193_img_1", "caption": "the banana is peeled then it is sliced"}
+{"id": 193, "image": "ex_193_img_1", "caption": "the banana is sliced then it is peeled"}
+{"id": 194, "image": "ex_194_img_0", "caption": "the dog is swimming and the person is standing"}
+{"id": 194, "image": "ex_194_img_0", "caption": "the dog is standing and the person is swimming"}
+{"id": 194, "image": "ex_194_img_1", "caption": "the dog is swimming and the person is standing"}
+{"id": 194, "image": "ex_194_img_1", "caption": "the dog is standing and the person is swimming"}
+{"id": 195, "image": "ex_195_img_0", "caption": "the person is jumping while the cat is sitting"}
+{"id": 195, "image": "ex_195_img_0", "caption": "the person is sitting while the cat is jumping"}
+{"id": 195, "image": "ex_195_img_1", "caption": "the person is jumping while the cat is sitting"}
+{"id": 195, "image": "ex_195_img_1", "caption": "the person is sitting while the cat is jumping"}
+{"id": 196, "image": "ex_196_img_0", "caption": "a cat is lying down and a person is stretching"}
+{"id": 196, "image": "ex_196_img_0", "caption": "a cat is stretching and a person is lying down"}
+{"id": 196, "image": "ex_196_img_1", "caption": "a cat is lying down and a person is stretching"}
+{"id": 196, "image": "ex_196_img_1", "caption": "a cat is stretching and a person is lying down"}
+{"id": 197, "image": "ex_197_img_0", "caption": "some people are standing but more are sitting"}
+{"id": 197, "image": "ex_197_img_0", "caption": "some people are sitting but more are standing"}
+{"id": 197, "image": "ex_197_img_1", "caption": "some people are standing but more are sitting"}
+{"id": 197, "image": "ex_197_img_1", "caption": "some people are sitting but more are standing"}
+{"id": 198, "image": "ex_198_img_0", "caption": "The kid throws the pancake and the adult sees it"}
+{"id": 198, "image": "ex_198_img_0", "caption": "The kids see the pancake and the adult throws it"}
+{"id": 198, "image": "ex_198_img_1", "caption": "The kid throws the pancake and the adult sees it"}
+{"id": 198, "image": "ex_198_img_1", "caption": "The kids see the pancake and the adult throws it"}
+{"id": 199, "image": "ex_199_img_0", "caption": "painting gray walls white"}
+{"id": 199, "image": "ex_199_img_0", "caption": "painting white walls gray"}
+{"id": 199, "image": "ex_199_img_1", "caption": "painting gray walls white"}
+{"id": 199, "image": "ex_199_img_1", "caption": "painting white walls gray"}
+{"id": 200, "image": "ex_200_img_0", "caption": "a shorter person wearing blue standing next to a taller person"}
+{"id": 200, "image": "ex_200_img_0", "caption": "a taller person wearing blue standing next to a shorter person"}
+{"id": 200, "image": "ex_200_img_1", "caption": "a shorter person wearing blue standing next to a taller person"}
+{"id": 200, "image": "ex_200_img_1", "caption": "a taller person wearing blue standing next to a shorter person"}
+{"id": 201, "image": "ex_201_img_0", "caption": "a person wearing a bear mask in blue on the left hand side of a person wearing a panda mask with glasses in pink"}
+{"id": 201, "image": "ex_201_img_0", "caption": "a person wearing a panda mask with glasses in blue on the left hand side of a person wearing a bear mask in pink"}
+{"id": 201, "image": "ex_201_img_1", "caption": "a person wearing a bear mask in blue on the left hand side of a person wearing a panda mask with glasses in pink"}
+{"id": 201, "image": "ex_201_img_1", "caption": "a person wearing a panda mask with glasses in blue on the left hand side of a person wearing a bear mask in pink"}
+{"id": 202, "image": "ex_202_img_0", "caption": "a car containing many a box"}
+{"id": 202, "image": "ex_202_img_0", "caption": "a box containing many a car"}
+{"id": 202, "image": "ex_202_img_1", "caption": "a car containing many a box"}
+{"id": 202, "image": "ex_202_img_1", "caption": "a box containing many a car"}
+{"id": 203, "image": "ex_203_img_0", "caption": "left is red and right is blue"}
+{"id": 203, "image": "ex_203_img_0", "caption": "left is blue and right is red"}
+{"id": 203, "image": "ex_203_img_1", "caption": "left is red and right is blue"}
+{"id": 203, "image": "ex_203_img_1", "caption": "left is blue and right is red"}
+{"id": 204, "image": "ex_204_img_0", "caption": "many a table tennis racket, just one ball"}
+{"id": 204, "image": "ex_204_img_0", "caption": "just one table tennis racket, many a ball"}
+{"id": 204, "image": "ex_204_img_1", "caption": "many a table tennis racket, just one ball"}
+{"id": 204, "image": "ex_204_img_1", "caption": "just one table tennis racket, many a ball"}
+{"id": 205, "image": "ex_205_img_0", "caption": "four lions, no tigers"}
+{"id": 205, "image": "ex_205_img_0", "caption": "no lions, four tigers"}
+{"id": 205, "image": "ex_205_img_1", "caption": "four lions, no tigers"}
+{"id": 205, "image": "ex_205_img_1", "caption": "no lions, four tigers"}
+{"id": 206, "image": "ex_206_img_0", "caption": "a small spherical object is heavier than a big spherical object"}
+{"id": 206, "image": "ex_206_img_0", "caption": "a big spherical object is heavier than a small spherical object"}
+{"id": 206, "image": "ex_206_img_1", "caption": "a small spherical object is heavier than a big spherical object"}
+{"id": 206, "image": "ex_206_img_1", "caption": "a big spherical object is heavier than a small spherical object"}
+{"id": 207, "image": "ex_207_img_0", "caption": "an older person blocking a younger person"}
+{"id": 207, "image": "ex_207_img_0", "caption": "a younger person blocking an older person"}
+{"id": 207, "image": "ex_207_img_1", "caption": "an older person blocking a younger person"}
+{"id": 207, "image": "ex_207_img_1", "caption": "a younger person blocking an older person"}
+{"id": 208, "image": "ex_208_img_0", "caption": "white land and black water"}
+{"id": 208, "image": "ex_208_img_0", "caption": "black land and white water"}
+{"id": 208, "image": "ex_208_img_1", "caption": "white land and black water"}
+{"id": 208, "image": "ex_208_img_1", "caption": "black land and white water"}
+{"id": 209, "image": "ex_209_img_0", "caption": "the cube is smaller than the shape whose lateral faces meet at a vertex"}
+{"id": 209, "image": "ex_209_img_0", "caption": "the shape whose lateral faces meet at a vertex is smaller than the cube"}
+{"id": 209, "image": "ex_209_img_1", "caption": "the cube is smaller than the shape whose lateral faces meet at a vertex"}
+{"id": 209, "image": "ex_209_img_1", "caption": "the shape whose lateral faces meet at a vertex is smaller than the cube"}
+{"id": 210, "image": "ex_210_img_0", "caption": "more bicycles than cars"}
+{"id": 210, "image": "ex_210_img_0", "caption": "more cars than bicycles"}
+{"id": 210, "image": "ex_210_img_1", "caption": "more bicycles than cars"}
+{"id": 210, "image": "ex_210_img_1", "caption": "more cars than bicycles"}
+{"id": 211, "image": "ex_211_img_0", "caption": "there are more apples than pears"}
+{"id": 211, "image": "ex_211_img_0", "caption": "there are more pears than apples"}
+{"id": 211, "image": "ex_211_img_1", "caption": "there are more apples than pears"}
+{"id": 211, "image": "ex_211_img_1", "caption": "there are more pears than apples"}
+{"id": 212, "image": "ex_212_img_0", "caption": "there is more love than hate"}
+{"id": 212, "image": "ex_212_img_0", "caption": "there is more hate than love"}
+{"id": 212, "image": "ex_212_img_1", "caption": "there is more love than hate"}
+{"id": 212, "image": "ex_212_img_1", "caption": "there is more hate than love"}
+{"id": 213, "image": "ex_213_img_0", "caption": "more water than oil"}
+{"id": 213, "image": "ex_213_img_0", "caption": "more oil than water"}
+{"id": 213, "image": "ex_213_img_1", "caption": "more water than oil"}
+{"id": 213, "image": "ex_213_img_1", "caption": "more oil than water"}
+{"id": 214, "image": "ex_214_img_0", "caption": "a person cries while another person wearing jewelry above their shoulders consoles"}
+{"id": 214, "image": "ex_214_img_0", "caption": "a person consoles while another person wearing jewelry above their shoulders cries"}
+{"id": 214, "image": "ex_214_img_1", "caption": "a person cries while another person wearing jewelry above their shoulders consoles"}
+{"id": 214, "image": "ex_214_img_1", "caption": "a person consoles while another person wearing jewelry above their shoulders cries"}
+{"id": 215, "image": "ex_215_img_0", "caption": "a person with long hair eating a meat-based product while a person with short hair snacks on some fries"}
+{"id": 215, "image": "ex_215_img_0", "caption": "a person with short hair eating a meat-based product while a person with long hair snacks on some fries"}
+{"id": 215, "image": "ex_215_img_1", "caption": "a person with long hair eating a meat-based product while a person with short hair snacks on some fries"}
+{"id": 215, "image": "ex_215_img_1", "caption": "a person with short hair eating a meat-based product while a person with long hair snacks on some fries"}
+{"id": 216, "image": "ex_216_img_0", "caption": "water below the boat"}
+{"id": 216, "image": "ex_216_img_0", "caption": "boat below the water"}
+{"id": 216, "image": "ex_216_img_1", "caption": "water below the boat"}
+{"id": 216, "image": "ex_216_img_1", "caption": "boat below the water"}
+{"id": 217, "image": "ex_217_img_0", "caption": "the one in front is faster than the other one"}
+{"id": 217, "image": "ex_217_img_0", "caption": "the other one is faster than the one in front"}
+{"id": 217, "image": "ex_217_img_1", "caption": "the one in front is faster than the other one"}
+{"id": 217, "image": "ex_217_img_1", "caption": "the other one is faster than the one in front"}
+{"id": 218, "image": "ex_218_img_0", "caption": "You can catch more flies with honey than you can with vinegar"}
+{"id": 218, "image": "ex_218_img_0", "caption": "You can catch more flies with vinegar than you can with honey"}
+{"id": 218, "image": "ex_218_img_1", "caption": "You can catch more flies with honey than you can with vinegar"}
+{"id": 218, "image": "ex_218_img_1", "caption": "You can catch more flies with vinegar than you can with honey"}
+{"id": 219, "image": "ex_219_img_0", "caption": "It starts with \"A\" and ends with \"Z\""}
+{"id": 219, "image": "ex_219_img_0", "caption": "It starts with \"Z\" and ends with \"A\""}
+{"id": 219, "image": "ex_219_img_1", "caption": "It starts with \"A\" and ends with \"Z\""}
+{"id": 219, "image": "ex_219_img_1", "caption": "It starts with \"Z\" and ends with \"A\""}
+{"id": 220, "image": "ex_220_img_0", "caption": "a shadow within the line"}
+{"id": 220, "image": "ex_220_img_0", "caption": "a line within the shadow"}
+{"id": 220, "image": "ex_220_img_1", "caption": "a shadow within the line"}
+{"id": 220, "image": "ex_220_img_1", "caption": "a line within the shadow"}
+{"id": 221, "image": "ex_221_img_0", "caption": "the brave in the face of fear"}
+{"id": 221, "image": "ex_221_img_0", "caption": "fear in the face of the brave"}
+{"id": 221, "image": "ex_221_img_1", "caption": "the brave in the face of fear"}
+{"id": 221, "image": "ex_221_img_1", "caption": "fear in the face of the brave"}
+{"id": 222, "image": "ex_222_img_0", "caption": "I need my strength back"}
+{"id": 222, "image": "ex_222_img_0", "caption": "I need my back strength"}
+{"id": 222, "image": "ex_222_img_1", "caption": "I need my strength back"}
+{"id": 222, "image": "ex_222_img_1", "caption": "I need my back strength"}
+{"id": 223, "image": "ex_223_img_0", "caption": "the one in the middle is taller than the ones on the side are"}
+{"id": 223, "image": "ex_223_img_0", "caption": "the ones on the side are taller than the one in the middle is"}
+{"id": 223, "image": "ex_223_img_1", "caption": "the one in the middle is taller than the ones on the side are"}
+{"id": 223, "image": "ex_223_img_1", "caption": "the ones on the side are taller than the one in the middle is"}
+{"id": 224, "image": "ex_224_img_0", "caption": "fish flying"}
+{"id": 224, "image": "ex_224_img_0", "caption": "fly fishing"}
+{"id": 224, "image": "ex_224_img_1", "caption": "fish flying"}
+{"id": 224, "image": "ex_224_img_1", "caption": "fly fishing"}
+{"id": 225, "image": "ex_225_img_0", "caption": "the red car is behind the blue car"}
+{"id": 225, "image": "ex_225_img_0", "caption": "the blue car is behind the red car"}
+{"id": 225, "image": "ex_225_img_1", "caption": "the red car is behind the blue car"}
+{"id": 225, "image": "ex_225_img_1", "caption": "the blue car is behind the red car"}
+{"id": 226, "image": "ex_226_img_0", "caption": "the driver wearing a shirt is in front of the other person wearing a sleeveless top"}
+{"id": 226, "image": "ex_226_img_0", "caption": "the driver wearing a sleeveless top is in front of the other person wearing a shirt"}
+{"id": 226, "image": "ex_226_img_1", "caption": "the driver wearing a shirt is in front of the other person wearing a sleeveless top"}
+{"id": 226, "image": "ex_226_img_1", "caption": "the driver wearing a sleeveless top is in front of the other person wearing a shirt"}
+{"id": 227, "image": "ex_227_img_0", "caption": "an object that rolls is on some wood"}
+{"id": 227, "image": "ex_227_img_0", "caption": "some wood is on an object that rolls"}
+{"id": 227, "image": "ex_227_img_1", "caption": "an object that rolls is on some wood"}
+{"id": 227, "image": "ex_227_img_1", "caption": "some wood is on an object that rolls"}
+{"id": 228, "image": "ex_228_img_0", "caption": "a cat viewing a human on a screen"}
+{"id": 228, "image": "ex_228_img_0", "caption": "a human viewing a cat on a screen"}
+{"id": 228, "image": "ex_228_img_1", "caption": "a cat viewing a human on a screen"}
+{"id": 228, "image": "ex_228_img_1", "caption": "a human viewing a cat on a screen"}
+{"id": 229, "image": "ex_229_img_0", "caption": "a normal person wishing they were a superhero"}
+{"id": 229, "image": "ex_229_img_0", "caption": "a superhero wishing they were a normal person"}
+{"id": 229, "image": "ex_229_img_1", "caption": "a normal person wishing they were a superhero"}
+{"id": 229, "image": "ex_229_img_1", "caption": "a superhero wishing they were a normal person"}
+{"id": 230, "image": "ex_230_img_0", "caption": "a mike in the right hand while raising the left"}
+{"id": 230, "image": "ex_230_img_0", "caption": "a mike in the left hand while raising the right"}
+{"id": 230, "image": "ex_230_img_1", "caption": "a mike in the right hand while raising the left"}
+{"id": 230, "image": "ex_230_img_1", "caption": "a mike in the left hand while raising the right"}
+{"id": 231, "image": "ex_231_img_0", "caption": "a person with long hair behind a person with a beard"}
+{"id": 231, "image": "ex_231_img_0", "caption": "a person with a beard behind a person with long hair"}
+{"id": 231, "image": "ex_231_img_1", "caption": "a person with long hair behind a person with a beard"}
+{"id": 231, "image": "ex_231_img_1", "caption": "a person with a beard behind a person with long hair"}
+{"id": 232, "image": "ex_232_img_0", "caption": "the person with hair to their shoulders has brown eyes and the other person's are blue"}
+{"id": 232, "image": "ex_232_img_0", "caption": "the person with hair to their shoulders has blue eyes and the other person's are brown"}
+{"id": 232, "image": "ex_232_img_1", "caption": "the person with hair to their shoulders has brown eyes and the other person's are blue"}
+{"id": 232, "image": "ex_232_img_1", "caption": "the person with hair to their shoulders has blue eyes and the other person's are brown"}
+{"id": 233, "image": "ex_233_img_0", "caption": "a human being on a device that intercepts the sun's rays"}
+{"id": 233, "image": "ex_233_img_0", "caption": "a device that intercepts the sun's rays on a human being"}
+{"id": 233, "image": "ex_233_img_1", "caption": "a human being on a device that intercepts the sun's rays"}
+{"id": 233, "image": "ex_233_img_1", "caption": "a device that intercepts the sun's rays on a human being"}
+{"id": 234, "image": "ex_234_img_0", "caption": "more humans than phones"}
+{"id": 234, "image": "ex_234_img_0", "caption": "more phones than humans"}
+{"id": 234, "image": "ex_234_img_1", "caption": "more humans than phones"}
+{"id": 234, "image": "ex_234_img_1", "caption": "more phones than humans"}
+{"id": 235, "image": "ex_235_img_0", "caption": "a person is in the tube"}
+{"id": 235, "image": "ex_235_img_0", "caption": "a tube is in the person"}
+{"id": 235, "image": "ex_235_img_1", "caption": "a person is in the tube"}
+{"id": 235, "image": "ex_235_img_1", "caption": "a tube is in the person"}
+{"id": 236, "image": "ex_236_img_0", "caption": "the person's head is above the rest of their body"}
+{"id": 236, "image": "ex_236_img_0", "caption": "the rest of their body is above the person's head"}
+{"id": 236, "image": "ex_236_img_1", "caption": "the person's head is above the rest of their body"}
+{"id": 236, "image": "ex_236_img_1", "caption": "the rest of their body is above the person's head"}
+{"id": 237, "image": "ex_237_img_0", "caption": "person overboard"}
+{"id": 237, "image": "ex_237_img_0", "caption": "person over board"}
+{"id": 237, "image": "ex_237_img_1", "caption": "person overboard"}
+{"id": 237, "image": "ex_237_img_1", "caption": "person over board"}
+{"id": 238, "image": "ex_238_img_0", "caption": "more red buttons than blue"}
+{"id": 238, "image": "ex_238_img_0", "caption": "more blue buttons than red"}
+{"id": 238, "image": "ex_238_img_1", "caption": "more red buttons than blue"}
+{"id": 238, "image": "ex_238_img_1", "caption": "more blue buttons than red"}
+{"id": 239, "image": "ex_239_img_0", "caption": "the object at the top left is purple and the one at the bottom right of the group is red"}
+{"id": 239, "image": "ex_239_img_0", "caption": "the object at the bottom right is purple and the one at the top left of the group is red"}
+{"id": 239, "image": "ex_239_img_1", "caption": "the object at the top left is purple and the one at the bottom right of the group is red"}
+{"id": 239, "image": "ex_239_img_1", "caption": "the object at the bottom right is purple and the one at the top left of the group is red"}
+{"id": 240, "image": "ex_240_img_0", "caption": "flat at the bottom and pointy on top"}
+{"id": 240, "image": "ex_240_img_0", "caption": "flat on top and pointy at the bottom"}
+{"id": 240, "image": "ex_240_img_1", "caption": "flat at the bottom and pointy on top"}
+{"id": 240, "image": "ex_240_img_1", "caption": "flat on top and pointy at the bottom"}
+{"id": 241, "image": "ex_241_img_0", "caption": "seat numbers increasing from left to right"}
+{"id": 241, "image": "ex_241_img_0", "caption": "seat numbers increasing from right to left"}
+{"id": 241, "image": "ex_241_img_1", "caption": "seat numbers increasing from left to right"}
+{"id": 241, "image": "ex_241_img_1", "caption": "seat numbers increasing from right to left"}
+{"id": 242, "image": "ex_242_img_0", "caption": "the number on the right is larger than the number on the left"}
+{"id": 242, "image": "ex_242_img_0", "caption": "the number on the left is larger than the number on the right"}
+{"id": 242, "image": "ex_242_img_1", "caption": "the number on the right is larger than the number on the left"}
+{"id": 242, "image": "ex_242_img_1", "caption": "the number on the left is larger than the number on the right"}
+{"id": 243, "image": "ex_243_img_0", "caption": "more hair on the person's face than on their head"}
+{"id": 243, "image": "ex_243_img_0", "caption": "more hair on the person's head than on their face"}
+{"id": 243, "image": "ex_243_img_1", "caption": "more hair on the person's face than on their head"}
+{"id": 243, "image": "ex_243_img_1", "caption": "more hair on the person's head than on their face"}
+{"id": 244, "image": "ex_244_img_0", "caption": "the knife on the left and the fork on the right"}
+{"id": 244, "image": "ex_244_img_0", "caption": "the knife on the right and the fork on the left"}
+{"id": 244, "image": "ex_244_img_1", "caption": "the knife on the left and the fork on the right"}
+{"id": 244, "image": "ex_244_img_1", "caption": "the knife on the right and the fork on the left"}
+{"id": 245, "image": "ex_245_img_0", "caption": "food on their eyes"}
+{"id": 245, "image": "ex_245_img_0", "caption": "eyes on their food"}
+{"id": 245, "image": "ex_245_img_1", "caption": "food on their eyes"}
+{"id": 245, "image": "ex_245_img_1", "caption": "eyes on their food"}
+{"id": 246, "image": "ex_246_img_0", "caption": "cars of bits"}
+{"id": 246, "image": "ex_246_img_0", "caption": "bits of cars"}
+{"id": 246, "image": "ex_246_img_1", "caption": "cars of bits"}
+{"id": 246, "image": "ex_246_img_1", "caption": "bits of cars"}
+{"id": 247, "image": "ex_247_img_0", "caption": "a person on top of the world"}
+{"id": 247, "image": "ex_247_img_0", "caption": "the world on top of a person"}
+{"id": 247, "image": "ex_247_img_1", "caption": "a person on top of the world"}
+{"id": 247, "image": "ex_247_img_1", "caption": "the world on top of a person"}
+{"id": 248, "image": "ex_248_img_0", "caption": "two people; the one on the right has curly hair and the one on the left doesn't"}
+{"id": 248, "image": "ex_248_img_0", "caption": "two people; the one on the left has curly hair and the one on the right doesn't"}
+{"id": 248, "image": "ex_248_img_1", "caption": "two people; the one on the right has curly hair and the one on the left doesn't"}
+{"id": 248, "image": "ex_248_img_1", "caption": "two people; the one on the left has curly hair and the one on the right doesn't"}
+{"id": 249, "image": "ex_249_img_0", "caption": "first the cream, then the jam"}
+{"id": 249, "image": "ex_249_img_0", "caption": "first the jam, then the cream"}
+{"id": 249, "image": "ex_249_img_1", "caption": "first the cream, then the jam"}
+{"id": 249, "image": "ex_249_img_1", "caption": "first the jam, then the cream"}
+{"id": 250, "image": "ex_250_img_0", "caption": "more kisses than hugs"}
+{"id": 250, "image": "ex_250_img_0", "caption": "more hugs than kisses"}
+{"id": 250, "image": "ex_250_img_1", "caption": "more kisses than hugs"}
+{"id": 250, "image": "ex_250_img_1", "caption": "more hugs than kisses"}
+{"id": 251, "image": "ex_251_img_0", "caption": "an inflatable flamingo on a person"}
+{"id": 251, "image": "ex_251_img_0", "caption": "a person on an inflatable flamingo"}
+{"id": 251, "image": "ex_251_img_1", "caption": "an inflatable flamingo on a person"}
+{"id": 251, "image": "ex_251_img_1", "caption": "a person on an inflatable flamingo"}
+{"id": 252, "image": "ex_252_img_0", "caption": "a pink bird with a white beak"}
+{"id": 252, "image": "ex_252_img_0", "caption": "a white bird with a pink beak"}
+{"id": 252, "image": "ex_252_img_1", "caption": "a pink bird with a white beak"}
+{"id": 252, "image": "ex_252_img_1", "caption": "a white bird with a pink beak"}
+{"id": 253, "image": "ex_253_img_0", "caption": "a large pink inflatable flamingo along with some other lilos on the water including one that is mostly white"}
+{"id": 253, "image": "ex_253_img_0", "caption": "a large white inflatable flamingo along with some other lilos on the water including one that is mostly pink"}
+{"id": 253, "image": "ex_253_img_1", "caption": "a large pink inflatable flamingo along with some other lilos on the water including one that is mostly white"}
+{"id": 253, "image": "ex_253_img_1", "caption": "a large white inflatable flamingo along with some other lilos on the water including one that is mostly pink"}
+{"id": 254, "image": "ex_254_img_0", "caption": "there are more eyes in the image than there are on a typical human"}
+{"id": 254, "image": "ex_254_img_0", "caption": "there are more eyes on a typical human than there are in the image"}
+{"id": 254, "image": "ex_254_img_1", "caption": "there are more eyes in the image than there are on a typical human"}
+{"id": 254, "image": "ex_254_img_1", "caption": "there are more eyes on a typical human than there are in the image"}
+{"id": 255, "image": "ex_255_img_0", "caption": "the confident doctor's stethoscope is around their neck, and their jacket is over their name tag"}
+{"id": 255, "image": "ex_255_img_0", "caption": "the confident doctor's stethoscope is around their neck, and their name tag is over their jacket"}
+{"id": 255, "image": "ex_255_img_1", "caption": "the confident doctor's stethoscope is around their neck, and their jacket is over their name tag"}
+{"id": 255, "image": "ex_255_img_1", "caption": "the confident doctor's stethoscope is around their neck, and their name tag is over their jacket"}
+{"id": 256, "image": "ex_256_img_0", "caption": "few wind turbines and many clouds"}
+{"id": 256, "image": "ex_256_img_0", "caption": "few clouds and many wind turbines"}
+{"id": 256, "image": "ex_256_img_1", "caption": "few wind turbines and many clouds"}
+{"id": 256, "image": "ex_256_img_1", "caption": "few clouds and many wind turbines"}
+{"id": 257, "image": "ex_257_img_0", "caption": "an adult is reading to their young child"}
+{"id": 257, "image": "ex_257_img_0", "caption": "their young child is reading to an adult"}
+{"id": 257, "image": "ex_257_img_1", "caption": "an adult is reading to their young child"}
+{"id": 257, "image": "ex_257_img_1", "caption": "their young child is reading to an adult"}
+{"id": 258, "image": "ex_258_img_0", "caption": "the shopping basket is full and the shelves on the person's right are empty"}
+{"id": 258, "image": "ex_258_img_0", "caption": "the shelves on the person's right are full and the shopping basket is empty"}
+{"id": 258, "image": "ex_258_img_1", "caption": "the shopping basket is full and the shelves on the person's right are empty"}
+{"id": 258, "image": "ex_258_img_1", "caption": "the shelves on the person's right are full and the shopping basket is empty"}
+{"id": 259, "image": "ex_259_img_0", "caption": "Young person playing baseball with a green bat and blue ball"}
+{"id": 259, "image": "ex_259_img_0", "caption": "Young person playing baseball with a blue bat and green ball"}
+{"id": 259, "image": "ex_259_img_1", "caption": "Young person playing baseball with a green bat and blue ball"}
+{"id": 259, "image": "ex_259_img_1", "caption": "Young person playing baseball with a blue bat and green ball"}
+{"id": 260, "image": "ex_260_img_0", "caption": "painting the white wall red"}
+{"id": 260, "image": "ex_260_img_0", "caption": "painting the red wall white"}
+{"id": 260, "image": "ex_260_img_1", "caption": "painting the white wall red"}
+{"id": 260, "image": "ex_260_img_1", "caption": "painting the red wall white"}
+{"id": 261, "image": "ex_261_img_0", "caption": "wearing a red jacket over blue"}
+{"id": 261, "image": "ex_261_img_0", "caption": "wearing a blue jacket over red"}
+{"id": 261, "image": "ex_261_img_1", "caption": "wearing a red jacket over blue"}
+{"id": 261, "image": "ex_261_img_1", "caption": "wearing a blue jacket over red"}
+{"id": 262, "image": "ex_262_img_0", "caption": "I had cleaned my car"}
+{"id": 262, "image": "ex_262_img_0", "caption": "I had my car cleaned"}
+{"id": 262, "image": "ex_262_img_1", "caption": "I had cleaned my car"}
+{"id": 262, "image": "ex_262_img_1", "caption": "I had my car cleaned"}
+{"id": 263, "image": "ex_263_img_0", "caption": "unfortunate poor people"}
+{"id": 263, "image": "ex_263_img_0", "caption": "poor unfortunate people"}
+{"id": 263, "image": "ex_263_img_1", "caption": "unfortunate poor people"}
+{"id": 263, "image": "ex_263_img_1", "caption": "poor unfortunate people"}
+{"id": 264, "image": "ex_264_img_0", "caption": "there are less gloves than masks"}
+{"id": 264, "image": "ex_264_img_0", "caption": "there are less masks than gloves"}
+{"id": 264, "image": "ex_264_img_1", "caption": "there are less gloves than masks"}
+{"id": 264, "image": "ex_264_img_1", "caption": "there are less masks than gloves"}
+{"id": 265, "image": "ex_265_img_0", "caption": "there are more pineapples than boxes"}
+{"id": 265, "image": "ex_265_img_0", "caption": "there are more boxes than pineapples"}
+{"id": 265, "image": "ex_265_img_1", "caption": "there are more pineapples than boxes"}
+{"id": 265, "image": "ex_265_img_1", "caption": "there are more boxes than pineapples"}
+{"id": 266, "image": "ex_266_img_0", "caption": "the outer bristles are blue and the inner ones are white"}
+{"id": 266, "image": "ex_266_img_0", "caption": "the outer bristles are white and the inner ones are blue"}
+{"id": 266, "image": "ex_266_img_1", "caption": "the outer bristles are blue and the inner ones are white"}
+{"id": 266, "image": "ex_266_img_1", "caption": "the outer bristles are white and the inner ones are blue"}
+{"id": 267, "image": "ex_267_img_0", "caption": "the first vowel is E and the last consonant is N"}
+{"id": 267, "image": "ex_267_img_0", "caption": "the last vowel is E and the first consonant is N"}
+{"id": 267, "image": "ex_267_img_1", "caption": "the first vowel is E and the last consonant is N"}
+{"id": 267, "image": "ex_267_img_1", "caption": "the last vowel is E and the first consonant is N"}
+{"id": 268, "image": "ex_268_img_0", "caption": "the cat on the left of the photo has its right paw ahead of its left"}
+{"id": 268, "image": "ex_268_img_0", "caption": "the cat on the left of the photo has its left paw ahead of its right"}
+{"id": 268, "image": "ex_268_img_1", "caption": "the cat on the left of the photo has its right paw ahead of its left"}
+{"id": 268, "image": "ex_268_img_1", "caption": "the cat on the left of the photo has its left paw ahead of its right"}
+{"id": 269, "image": "ex_269_img_0", "caption": "the text is black on white"}
+{"id": 269, "image": "ex_269_img_0", "caption": "the text is white on black"}
+{"id": 269, "image": "ex_269_img_1", "caption": "the text is black on white"}
+{"id": 269, "image": "ex_269_img_1", "caption": "the text is white on black"}
+{"id": 270, "image": "ex_270_img_0", "caption": "the dog sits and the cat stands"}
+{"id": 270, "image": "ex_270_img_0", "caption": "the dog stands and the cat sits"}
+{"id": 270, "image": "ex_270_img_1", "caption": "the dog sits and the cat stands"}
+{"id": 270, "image": "ex_270_img_1", "caption": "the dog stands and the cat sits"}
+{"id": 271, "image": "ex_271_img_0", "caption": "the person with facial hair cycles and the other person runs"}
+{"id": 271, "image": "ex_271_img_0", "caption": "the person with facial hair runs and the other person cycles"}
+{"id": 271, "image": "ex_271_img_1", "caption": "the person with facial hair cycles and the other person runs"}
+{"id": 271, "image": "ex_271_img_1", "caption": "the person with facial hair runs and the other person cycles"}
+{"id": 272, "image": "ex_272_img_0", "caption": "using the laptop while the guitar is close by"}
+{"id": 272, "image": "ex_272_img_0", "caption": "using the guitar while the laptop is close by"}
+{"id": 272, "image": "ex_272_img_1", "caption": "using the laptop while the guitar is close by"}
+{"id": 272, "image": "ex_272_img_1", "caption": "using the guitar while the laptop is close by"}
+{"id": 273, "image": "ex_273_img_0", "caption": "a person in a blue coat with a brown-ish coffee cup"}
+{"id": 273, "image": "ex_273_img_0", "caption": "a person in a brown-ish coat with a blue coffee cup"}
+{"id": 273, "image": "ex_273_img_1", "caption": "a person in a blue coat with a brown-ish coffee cup"}
+{"id": 273, "image": "ex_273_img_1", "caption": "a person in a brown-ish coat with a blue coffee cup"}
+{"id": 274, "image": "ex_274_img_0", "caption": "space in a star"}
+{"id": 274, "image": "ex_274_img_0", "caption": "a star in space"}
+{"id": 274, "image": "ex_274_img_1", "caption": "space in a star"}
+{"id": 274, "image": "ex_274_img_1", "caption": "a star in space"}
+{"id": 275, "image": "ex_275_img_0", "caption": "star of death"}
+{"id": 275, "image": "ex_275_img_0", "caption": "death of star"}
+{"id": 275, "image": "ex_275_img_1", "caption": "star of death"}
+{"id": 275, "image": "ex_275_img_1", "caption": "death of star"}
+{"id": 276, "image": "ex_276_img_0", "caption": "the younger person is making noise while the other is silent"}
+{"id": 276, "image": "ex_276_img_0", "caption": "the younger person is silent while the other is making noise"}
+{"id": 276, "image": "ex_276_img_1", "caption": "the younger person is making noise while the other is silent"}
+{"id": 276, "image": "ex_276_img_1", "caption": "the younger person is silent while the other is making noise"}
+{"id": 277, "image": "ex_277_img_0", "caption": "the one on the left is happy and the other is sad"}
+{"id": 277, "image": "ex_277_img_0", "caption": "the one on the left is sad and the other is happy"}
+{"id": 277, "image": "ex_277_img_1", "caption": "the one on the left is happy and the other is sad"}
+{"id": 277, "image": "ex_277_img_1", "caption": "the one on the left is sad and the other is happy"}
+{"id": 278, "image": "ex_278_img_0", "caption": "the person on the left is dancing and the person on the very right is sitting on the sofa"}
+{"id": 278, "image": "ex_278_img_0", "caption": "the person on the left is sitting on the sofa and the person on the very right is dancing"}
+{"id": 278, "image": "ex_278_img_1", "caption": "the person on the left is dancing and the person on the very right is sitting on the sofa"}
+{"id": 278, "image": "ex_278_img_1", "caption": "the person on the left is sitting on the sofa and the person on the very right is dancing"}
+{"id": 279, "image": "ex_279_img_0", "caption": "the person on the left is crying sadly while the one on the right is smiling happily"}
+{"id": 279, "image": "ex_279_img_0", "caption": "the person on the left is smiling happily while the one on the right is crying sadly"}
+{"id": 279, "image": "ex_279_img_1", "caption": "the person on the left is crying sadly while the one on the right is smiling happily"}
+{"id": 279, "image": "ex_279_img_1", "caption": "the person on the left is smiling happily while the one on the right is crying sadly"}
+{"id": 280, "image": "ex_280_img_0", "caption": "the large person is drinking from the small coffee cup"}
+{"id": 280, "image": "ex_280_img_0", "caption": "the small person is drinking from the large coffee cup"}
+{"id": 280, "image": "ex_280_img_1", "caption": "the large person is drinking from the small coffee cup"}
+{"id": 280, "image": "ex_280_img_1", "caption": "the small person is drinking from the large coffee cup"}
+{"id": 281, "image": "ex_281_img_0", "caption": "hot rubber and cool metal"}
+{"id": 281, "image": "ex_281_img_0", "caption": "cool rubber and hot metal"}
+{"id": 281, "image": "ex_281_img_1", "caption": "hot rubber and cool metal"}
+{"id": 281, "image": "ex_281_img_1", "caption": "cool rubber and hot metal"}
+{"id": 282, "image": "ex_282_img_0", "caption": "the triangular shape is beneath the square one"}
+{"id": 282, "image": "ex_282_img_0", "caption": "the square shape is beneath the triangular one"}
+{"id": 282, "image": "ex_282_img_1", "caption": "the triangular shape is beneath the square one"}
+{"id": 282, "image": "ex_282_img_1", "caption": "the square shape is beneath the triangular one"}
+{"id": 283, "image": "ex_283_img_0", "caption": "rough outside but smooth inside"}
+{"id": 283, "image": "ex_283_img_0", "caption": "smooth outside but rough inside"}
+{"id": 283, "image": "ex_283_img_1", "caption": "rough outside but smooth inside"}
+{"id": 283, "image": "ex_283_img_1", "caption": "smooth outside but rough inside"}
+{"id": 284, "image": "ex_284_img_0", "caption": "the green one is fast and the one in white is comparatively slow"}
+{"id": 284, "image": "ex_284_img_0", "caption": "the green one is slow and the one in white is comparatively fast"}
+{"id": 284, "image": "ex_284_img_1", "caption": "the green one is fast and the one in white is comparatively slow"}
+{"id": 284, "image": "ex_284_img_1", "caption": "the green one is slow and the one in white is comparatively fast"}
+{"id": 285, "image": "ex_285_img_0", "caption": "there are more humans than balls"}
+{"id": 285, "image": "ex_285_img_0", "caption": "there are more balls than humans"}
+{"id": 285, "image": "ex_285_img_1", "caption": "there are more humans than balls"}
+{"id": 285, "image": "ex_285_img_1", "caption": "there are more balls than humans"}
+{"id": 286, "image": "ex_286_img_0", "caption": "there are more legs than wheels"}
+{"id": 286, "image": "ex_286_img_0", "caption": "there are more wheels than legs"}
+{"id": 286, "image": "ex_286_img_1", "caption": "there are more legs than wheels"}
+{"id": 286, "image": "ex_286_img_1", "caption": "there are more wheels than legs"}
+{"id": 287, "image": "ex_287_img_0", "caption": "a group of three people with longer hair and two with short hair in a business context"}
+{"id": 287, "image": "ex_287_img_0", "caption": "a group of two people with longer hair and three with short hair in a business context"}
+{"id": 287, "image": "ex_287_img_1", "caption": "a group of three people with longer hair and two with short hair in a business context"}
+{"id": 287, "image": "ex_287_img_1", "caption": "a group of two people with longer hair and three with short hair in a business context"}
+{"id": 288, "image": "ex_288_img_0", "caption": "the gesture of the person sitting down is supporting the understanding of the person standing up"}
+{"id": 288, "image": "ex_288_img_0", "caption": "the gesture of the person standing up is supporting the understanding of the person sitting down"}
+{"id": 288, "image": "ex_288_img_1", "caption": "the gesture of the person sitting down is supporting the understanding of the person standing up"}
+{"id": 288, "image": "ex_288_img_1", "caption": "the gesture of the person standing up is supporting the understanding of the person sitting down"}
+{"id": 289, "image": "ex_289_img_0", "caption": "the circle is above the cross"}
+{"id": 289, "image": "ex_289_img_0", "caption": "the cross is above the circle"}
+{"id": 289, "image": "ex_289_img_1", "caption": "the circle is above the cross"}
+{"id": 289, "image": "ex_289_img_1", "caption": "the cross is above the circle"}
+{"id": 290, "image": "ex_290_img_0", "caption": "aerial view of a green tree in the brown freshly turned soil next to a green field"}
+{"id": 290, "image": "ex_290_img_0", "caption": "aerial view of a green tree in a green field next to the brown freshly turned soil"}
+{"id": 290, "image": "ex_290_img_1", "caption": "aerial view of a green tree in the brown freshly turned soil next to a green field"}
+{"id": 290, "image": "ex_290_img_1", "caption": "aerial view of a green tree in a green field next to the brown freshly turned soil"}
+{"id": 291, "image": "ex_291_img_0", "caption": "physical therapist inspecting blue elastic therapeutic kinesio tape over pink"}
+{"id": 291, "image": "ex_291_img_0", "caption": "physical therapist inspecting pink elastic therapeutic kinesio tape over blue"}
+{"id": 291, "image": "ex_291_img_1", "caption": "physical therapist inspecting blue elastic therapeutic kinesio tape over pink"}
+{"id": 291, "image": "ex_291_img_1", "caption": "physical therapist inspecting pink elastic therapeutic kinesio tape over blue"}
+{"id": 292, "image": "ex_292_img_0", "caption": "the skipping rope color is different to the shoelaces but similar to the shoes"}
+{"id": 292, "image": "ex_292_img_0", "caption": "the skipping rope color is similar to the shoelaces but different to the shoes"}
+{"id": 292, "image": "ex_292_img_1", "caption": "the skipping rope color is different to the shoelaces but similar to the shoes"}
+{"id": 292, "image": "ex_292_img_1", "caption": "the skipping rope color is similar to the shoelaces but different to the shoes"}
+{"id": 293, "image": "ex_293_img_0", "caption": "the blue balloon is being lifted by the weight"}
+{"id": 293, "image": "ex_293_img_0", "caption": "the weight is being lifted by the blue balloon"}
+{"id": 293, "image": "ex_293_img_1", "caption": "the blue balloon is being lifted by the weight"}
+{"id": 293, "image": "ex_293_img_1", "caption": "the weight is being lifted by the blue balloon"}
+{"id": 294, "image": "ex_294_img_0", "caption": "the sea is rough but the rocks are smooth"}
+{"id": 294, "image": "ex_294_img_0", "caption": "the sea is smooth but the rocks are rough"}
+{"id": 294, "image": "ex_294_img_1", "caption": "the sea is rough but the rocks are smooth"}
+{"id": 294, "image": "ex_294_img_1", "caption": "the sea is smooth but the rocks are rough"}
+{"id": 295, "image": "ex_295_img_0", "caption": "the melting white food is cold while the brown is warm"}
+{"id": 295, "image": "ex_295_img_0", "caption": "the melting white food is warm while the brown is cold"}
+{"id": 295, "image": "ex_295_img_1", "caption": "the melting white food is cold while the brown is warm"}
+{"id": 295, "image": "ex_295_img_1", "caption": "the melting white food is warm while the brown is cold"}
+{"id": 296, "image": "ex_296_img_0", "caption": "the person with a beard is smiling while the person with long hair is not"}
+{"id": 296, "image": "ex_296_img_0", "caption": "the person with long hair is smiling while the person with a beard is not"}
+{"id": 296, "image": "ex_296_img_1", "caption": "the person with a beard is smiling while the person with long hair is not"}
+{"id": 296, "image": "ex_296_img_1", "caption": "the person with long hair is smiling while the person with a beard is not"}
+{"id": 297, "image": "ex_297_img_0", "caption": "the pet on the right is white and the one on the left is not"}
+{"id": 297, "image": "ex_297_img_0", "caption": "the pet on the left is white and the one on the right is not"}
+{"id": 297, "image": "ex_297_img_1", "caption": "the pet on the right is white and the one on the left is not"}
+{"id": 297, "image": "ex_297_img_1", "caption": "the pet on the left is white and the one on the right is not"}
+{"id": 298, "image": "ex_298_img_0", "caption": "the outlet carrying water from the faucet to the shower head is near the hot tap not the cold"}
+{"id": 298, "image": "ex_298_img_0", "caption": "the outlet carrying water from the faucet to the shower head is near the cold tap not the hot"}
+{"id": 298, "image": "ex_298_img_1", "caption": "the outlet carrying water from the faucet to the shower head is near the hot tap not the cold"}
+{"id": 298, "image": "ex_298_img_1", "caption": "the outlet carrying water from the faucet to the shower head is near the cold tap not the hot"}
+{"id": 299, "image": "ex_299_img_0", "caption": "the larger ball is heavier and the smaller one is lighter"}
+{"id": 299, "image": "ex_299_img_0", "caption": "the larger ball is lighter and the smaller one is heavier"}
+{"id": 299, "image": "ex_299_img_1", "caption": "the larger ball is heavier and the smaller one is lighter"}
+{"id": 299, "image": "ex_299_img_1", "caption": "the larger ball is lighter and the smaller one is heavier"}
+{"id": 300, "image": "ex_300_img_0", "caption": "The adult with the magnifying glass looks at the kid"}
+{"id": 300, "image": "ex_300_img_0", "caption": "The adult looks at the kid with the magnifying glass"}
+{"id": 300, "image": "ex_300_img_1", "caption": "The adult with the magnifying glass looks at the kid"}
+{"id": 300, "image": "ex_300_img_1", "caption": "The adult looks at the kid with the magnifying glass"}
+{"id": 301, "image": "ex_301_img_0", "caption": "a dog is on a blanket with spots"}
+{"id": 301, "image": "ex_301_img_0", "caption": "a blanket is on a dog with spots"}
+{"id": 301, "image": "ex_301_img_1", "caption": "a dog is on a blanket with spots"}
+{"id": 301, "image": "ex_301_img_1", "caption": "a blanket is on a dog with spots"}
+{"id": 302, "image": "ex_302_img_0", "caption": "There is a mouse cake for a birthday"}
+{"id": 302, "image": "ex_302_img_0", "caption": "There is a birthday cake for a mouse"}
+{"id": 302, "image": "ex_302_img_1", "caption": "There is a mouse cake for a birthday"}
+{"id": 302, "image": "ex_302_img_1", "caption": "There is a birthday cake for a mouse"}
+{"id": 303, "image": "ex_303_img_0", "caption": "The cold-blooded animal isn't happy in warm water"}
+{"id": 303, "image": "ex_303_img_0", "caption": "The warm-blooded animal isn't happy in cold water"}
+{"id": 303, "image": "ex_303_img_1", "caption": "The cold-blooded animal isn't happy in warm water"}
+{"id": 303, "image": "ex_303_img_1", "caption": "The warm-blooded animal isn't happy in cold water"}
+{"id": 304, "image": "ex_304_img_0", "caption": "The white queen is taking the black king"}
+{"id": 304, "image": "ex_304_img_0", "caption": "The black queen is taking the white king"}
+{"id": 304, "image": "ex_304_img_1", "caption": "The white queen is taking the black king"}
+{"id": 304, "image": "ex_304_img_1", "caption": "The black queen is taking the white king"}
+{"id": 305, "image": "ex_305_img_0", "caption": "visiting animals at home can be fun"}
+{"id": 305, "image": "ex_305_img_0", "caption": "animals visiting at home can be fun"}
+{"id": 305, "image": "ex_305_img_1", "caption": "visiting animals at home can be fun"}
+{"id": 305, "image": "ex_305_img_1", "caption": "animals visiting at home can be fun"}
+{"id": 306, "image": "ex_306_img_0", "caption": "the person is not happy with the cat"}
+{"id": 306, "image": "ex_306_img_0", "caption": "the cat is not happy with the person"}
+{"id": 306, "image": "ex_306_img_1", "caption": "the person is not happy with the cat"}
+{"id": 306, "image": "ex_306_img_1", "caption": "the cat is not happy with the person"}
+{"id": 307, "image": "ex_307_img_0", "caption": "the person is too big for the small door"}
+{"id": 307, "image": "ex_307_img_0", "caption": "the door is too small for the big person"}
+{"id": 307, "image": "ex_307_img_1", "caption": "the person is too big for the small door"}
+{"id": 307, "image": "ex_307_img_1", "caption": "the door is too small for the big person"}
+{"id": 308, "image": "ex_308_img_0", "caption": "a taller person is covering the eyes of a shorter person"}
+{"id": 308, "image": "ex_308_img_0", "caption": "a shorter person is covering the eyes of a taller person"}
+{"id": 308, "image": "ex_308_img_1", "caption": "a taller person is covering the eyes of a shorter person"}
+{"id": 308, "image": "ex_308_img_1", "caption": "a shorter person is covering the eyes of a taller person"}
+{"id": 309, "image": "ex_309_img_0", "caption": "the plant is eating the bug"}
+{"id": 309, "image": "ex_309_img_0", "caption": "the bug is eating the plant"}
+{"id": 309, "image": "ex_309_img_1", "caption": "the plant is eating the bug"}
+{"id": 309, "image": "ex_309_img_1", "caption": "the bug is eating the plant"}
+{"id": 310, "image": "ex_310_img_0", "caption": "every bug has a leaf"}
+{"id": 310, "image": "ex_310_img_0", "caption": "every leaf has a bug"}
+{"id": 310, "image": "ex_310_img_1", "caption": "every bug has a leaf"}
+{"id": 310, "image": "ex_310_img_1", "caption": "every leaf has a bug"}
+{"id": 311, "image": "ex_311_img_0", "caption": "the green leaves will soon be red as the seasons change"}
+{"id": 311, "image": "ex_311_img_0", "caption": "the red leaves will soon be green as the seasons change"}
+{"id": 311, "image": "ex_311_img_1", "caption": "the green leaves will soon be red as the seasons change"}
+{"id": 311, "image": "ex_311_img_1", "caption": "the red leaves will soon be green as the seasons change"}
+{"id": 312, "image": "ex_312_img_0", "caption": "the white wall will soon be painted blue"}
+{"id": 312, "image": "ex_312_img_0", "caption": "the blue wall will soon be painted white"}
+{"id": 312, "image": "ex_312_img_1", "caption": "the white wall will soon be painted blue"}
+{"id": 312, "image": "ex_312_img_1", "caption": "the blue wall will soon be painted white"}
+{"id": 313, "image": "ex_313_img_0", "caption": "the moon prevents the sun's rays from falling on the earth"}
+{"id": 313, "image": "ex_313_img_0", "caption": "the earth prevents the sun's rays from falling on the moon"}
+{"id": 313, "image": "ex_313_img_1", "caption": "the moon prevents the sun's rays from falling on the earth"}
+{"id": 313, "image": "ex_313_img_1", "caption": "the earth prevents the sun's rays from falling on the moon"}
+{"id": 314, "image": "ex_314_img_0", "caption": "all paper airplanes fly on a straight path except for one which takes a curved one"}
+{"id": 314, "image": "ex_314_img_0", "caption": "all paper airplanes fly on a curved path except for one which takes a straight one"}
+{"id": 314, "image": "ex_314_img_1", "caption": "all paper airplanes fly on a straight path except for one which takes a curved one"}
+{"id": 314, "image": "ex_314_img_1", "caption": "all paper airplanes fly on a curved path except for one which takes a straight one"}
+{"id": 315, "image": "ex_315_img_0", "caption": "the person is too big for the pants"}
+{"id": 315, "image": "ex_315_img_0", "caption": "the pants is too big for the person"}
+{"id": 315, "image": "ex_315_img_1", "caption": "the person is too big for the pants"}
+{"id": 315, "image": "ex_315_img_1", "caption": "the pants is too big for the person"}
+{"id": 316, "image": "ex_316_img_0", "caption": "a kid jumped then threw a basketball"}
+{"id": 316, "image": "ex_316_img_0", "caption": "a kid threw a basketball then jumped"}
+{"id": 316, "image": "ex_316_img_1", "caption": "a kid jumped then threw a basketball"}
+{"id": 316, "image": "ex_316_img_1", "caption": "a kid threw a basketball then jumped"}
+{"id": 317, "image": "ex_317_img_0", "caption": "one cheerlearder supporting multiple cheerleaders"}
+{"id": 317, "image": "ex_317_img_0", "caption": "multiple cheerleaders supporting one cheerlearder"}
+{"id": 317, "image": "ex_317_img_1", "caption": "one cheerlearder supporting multiple cheerleaders"}
+{"id": 317, "image": "ex_317_img_1", "caption": "multiple cheerleaders supporting one cheerlearder"}
+{"id": 318, "image": "ex_318_img_0", "caption": "two persons wearing one scarf"}
+{"id": 318, "image": "ex_318_img_0", "caption": "one person wearing two scarfs"}
+{"id": 318, "image": "ex_318_img_1", "caption": "two persons wearing one scarf"}
+{"id": 318, "image": "ex_318_img_1", "caption": "one person wearing two scarfs"}
+{"id": 319, "image": "ex_319_img_0", "caption": "human head on pet"}
+{"id": 319, "image": "ex_319_img_0", "caption": "pet head on human"}
+{"id": 319, "image": "ex_319_img_1", "caption": "human head on pet"}
+{"id": 319, "image": "ex_319_img_1", "caption": "pet head on human"}
+{"id": 320, "image": "ex_320_img_0", "caption": "the cow is over the moon"}
+{"id": 320, "image": "ex_320_img_0", "caption": "the moon is over the cow"}
+{"id": 320, "image": "ex_320_img_1", "caption": "the cow is over the moon"}
+{"id": 320, "image": "ex_320_img_1", "caption": "the moon is over the cow"}
+{"id": 321, "image": "ex_321_img_0", "caption": "someone babys a pet"}
+{"id": 321, "image": "ex_321_img_0", "caption": "someone pets a baby"}
+{"id": 321, "image": "ex_321_img_1", "caption": "someone babys a pet"}
+{"id": 321, "image": "ex_321_img_1", "caption": "someone pets a baby"}
+{"id": 322, "image": "ex_322_img_0", "caption": "cat house"}
+{"id": 322, "image": "ex_322_img_0", "caption": "house cat"}
+{"id": 322, "image": "ex_322_img_1", "caption": "cat house"}
+{"id": 322, "image": "ex_322_img_1", "caption": "house cat"}
+{"id": 323, "image": "ex_323_img_0", "caption": "gold for pan"}
+{"id": 323, "image": "ex_323_img_0", "caption": "pan for gold"}
+{"id": 323, "image": "ex_323_img_1", "caption": "gold for pan"}
+{"id": 323, "image": "ex_323_img_1", "caption": "pan for gold"}
+{"id": 324, "image": "ex_324_img_0", "caption": "water for plants"}
+{"id": 324, "image": "ex_324_img_0", "caption": "plants for water"}
+{"id": 324, "image": "ex_324_img_1", "caption": "water for plants"}
+{"id": 324, "image": "ex_324_img_1", "caption": "plants for water"}
+{"id": 325, "image": "ex_325_img_0", "caption": "the businessperson's down fall"}
+{"id": 325, "image": "ex_325_img_0", "caption": "the businessperson's fall down"}
+{"id": 325, "image": "ex_325_img_1", "caption": "the businessperson's down fall"}
+{"id": 325, "image": "ex_325_img_1", "caption": "the businessperson's fall down"}
+{"id": 326, "image": "ex_326_img_0", "caption": "outswam the person in the red swimcap"}
+{"id": 326, "image": "ex_326_img_0", "caption": "the person in the red swimcap swamout"}
+{"id": 326, "image": "ex_326_img_1", "caption": "outswam the person in the red swimcap"}
+{"id": 326, "image": "ex_326_img_1", "caption": "the person in the red swimcap swamout"}
+{"id": 327, "image": "ex_327_img_0", "caption": "manning a ship"}
+{"id": 327, "image": "ex_327_img_0", "caption": "shiping a mann"}
+{"id": 327, "image": "ex_327_img_1", "caption": "manning a ship"}
+{"id": 327, "image": "ex_327_img_1", "caption": "shiping a mann"}
+{"id": 328, "image": "ex_328_img_0", "caption": "the person wearing a sweater stands in front of the person who isn't wearing a sweater"}
+{"id": 328, "image": "ex_328_img_0", "caption": "the person who isn't wearing a sweater stands in front of the person wearing a sweater"}
+{"id": 328, "image": "ex_328_img_1", "caption": "the person wearing a sweater stands in front of the person who isn't wearing a sweater"}
+{"id": 328, "image": "ex_328_img_1", "caption": "the person who isn't wearing a sweater stands in front of the person wearing a sweater"}
+{"id": 329, "image": "ex_329_img_0", "caption": "a person without glasses pushes a person with glasses sitting in a box"}
+{"id": 329, "image": "ex_329_img_0", "caption": "a person with glasses pushes a person without glasses sitting in a box"}
+{"id": 329, "image": "ex_329_img_1", "caption": "a person without glasses pushes a person with glasses sitting in a box"}
+{"id": 329, "image": "ex_329_img_1", "caption": "a person with glasses pushes a person without glasses sitting in a box"}
+{"id": 330, "image": "ex_330_img_0", "caption": "what is green will soon be yellow"}
+{"id": 330, "image": "ex_330_img_0", "caption": "what is yellow will soon be green"}
+{"id": 330, "image": "ex_330_img_1", "caption": "what is green will soon be yellow"}
+{"id": 330, "image": "ex_330_img_1", "caption": "what is yellow will soon be green"}
+{"id": 331, "image": "ex_331_img_0", "caption": "soon this animal not with a tail will have one"}
+{"id": 331, "image": "ex_331_img_0", "caption": "soon this animal with a tail will not have one"}
+{"id": 331, "image": "ex_331_img_1", "caption": "soon this animal not with a tail will have one"}
+{"id": 331, "image": "ex_331_img_1", "caption": "soon this animal with a tail will not have one"}
+{"id": 332, "image": "ex_332_img_0", "caption": "a mouse is touching a dog"}
+{"id": 332, "image": "ex_332_img_0", "caption": "a dog is touching a mouse"}
+{"id": 332, "image": "ex_332_img_1", "caption": "a mouse is touching a dog"}
+{"id": 332, "image": "ex_332_img_1", "caption": "a dog is touching a mouse"}
+{"id": 333, "image": "ex_333_img_0", "caption": "fishing for compliments"}
+{"id": 333, "image": "ex_333_img_0", "caption": "compliments for fishing"}
+{"id": 333, "image": "ex_333_img_1", "caption": "fishing for compliments"}
+{"id": 333, "image": "ex_333_img_1", "caption": "compliments for fishing"}
+{"id": 334, "image": "ex_334_img_0", "caption": "that person dusting off their hands"}
+{"id": 334, "image": "ex_334_img_0", "caption": "that person hands off their dusting"}
+{"id": 334, "image": "ex_334_img_1", "caption": "that person dusting off their hands"}
+{"id": 334, "image": "ex_334_img_1", "caption": "that person hands off their dusting"}
+{"id": 335, "image": "ex_335_img_0", "caption": "a person wearing black shoes cleaning a bookshelf with an orange duster while a person wearing green shoes drinks wine from an orange glass and relaxes"}
+{"id": 335, "image": "ex_335_img_0", "caption": "a person wearing green shoes cleaning a bookshelf with an orange duster while a person wearing black shoes drinks wine from an orange glass and relaxes"}
+{"id": 335, "image": "ex_335_img_1", "caption": "a person wearing black shoes cleaning a bookshelf with an orange duster while a person wearing green shoes drinks wine from an orange glass and relaxes"}
+{"id": 335, "image": "ex_335_img_1", "caption": "a person wearing green shoes cleaning a bookshelf with an orange duster while a person wearing black shoes drinks wine from an orange glass and relaxes"}
+{"id": 336, "image": "ex_336_img_0", "caption": "a person with short hair is happily ironing a light blue shirt while a person with long hair sits on a white couch"}
+{"id": 336, "image": "ex_336_img_0", "caption": "a person with long hair is happily ironing a light blue shirt while a person with short hair sits on a white couch"}
+{"id": 336, "image": "ex_336_img_1", "caption": "a person with short hair is happily ironing a light blue shirt while a person with long hair sits on a white couch"}
+{"id": 336, "image": "ex_336_img_1", "caption": "a person with long hair is happily ironing a light blue shirt while a person with short hair sits on a white couch"}
+{"id": 337, "image": "ex_337_img_0", "caption": "yellow duck shoes on"}
+{"id": 337, "image": "ex_337_img_0", "caption": "yellow duck on shoes"}
+{"id": 337, "image": "ex_337_img_1", "caption": "yellow duck shoes on"}
+{"id": 337, "image": "ex_337_img_1", "caption": "yellow duck on shoes"}
+{"id": 338, "image": "ex_338_img_0", "caption": "child in front facing row of yellow rubber ducks"}
+{"id": 338, "image": "ex_338_img_0", "caption": "front facing child in row of yellow rubber ducks"}
+{"id": 338, "image": "ex_338_img_1", "caption": "child in front facing row of yellow rubber ducks"}
+{"id": 338, "image": "ex_338_img_1", "caption": "front facing child in row of yellow rubber ducks"}
+{"id": 339, "image": "ex_339_img_0", "caption": "a bird cooking a person"}
+{"id": 339, "image": "ex_339_img_0", "caption": "a person cooking a bird"}
+{"id": 339, "image": "ex_339_img_1", "caption": "a bird cooking a person"}
+{"id": 339, "image": "ex_339_img_1", "caption": "a person cooking a bird"}
+{"id": 340, "image": "ex_340_img_0", "caption": "a person wearing yellow and a person wearing stripes jumping"}
+{"id": 340, "image": "ex_340_img_0", "caption": "a jumping person wearing yellow and a person wearing stripes"}
+{"id": 340, "image": "ex_340_img_1", "caption": "a person wearing yellow and a person wearing stripes jumping"}
+{"id": 340, "image": "ex_340_img_1", "caption": "a jumping person wearing yellow and a person wearing stripes"}
+{"id": 341, "image": "ex_341_img_0", "caption": "a person wearing yellow with their feet in the air and a person wearing stripes"}
+{"id": 341, "image": "ex_341_img_0", "caption": "a person wearing stripes with their feet in the air and a person wearing yellow"}
+{"id": 341, "image": "ex_341_img_1", "caption": "a person wearing yellow with their feet in the air and a person wearing stripes"}
+{"id": 341, "image": "ex_341_img_1", "caption": "a person wearing stripes with their feet in the air and a person wearing yellow"}
+{"id": 342, "image": "ex_342_img_0", "caption": "darker things become light in stripes"}
+{"id": 342, "image": "ex_342_img_0", "caption": "light things in stripes become darker"}
+{"id": 342, "image": "ex_342_img_1", "caption": "darker things become light in stripes"}
+{"id": 342, "image": "ex_342_img_1", "caption": "light things in stripes become darker"}
+{"id": 343, "image": "ex_343_img_0", "caption": "together hammering something"}
+{"id": 343, "image": "ex_343_img_0", "caption": "hammering something together"}
+{"id": 343, "image": "ex_343_img_1", "caption": "together hammering something"}
+{"id": 343, "image": "ex_343_img_1", "caption": "hammering something together"}
+{"id": 344, "image": "ex_344_img_0", "caption": "A person sits next to a baby using an orange screwdriver to assemble a white piece of furniture"}
+{"id": 344, "image": "ex_344_img_0", "caption": "A baby sits next to a person using an orange screwdriver to assemble a white piece of furniture"}
+{"id": 344, "image": "ex_344_img_1", "caption": "A person sits next to a baby using an orange screwdriver to assemble a white piece of furniture"}
+{"id": 344, "image": "ex_344_img_1", "caption": "A baby sits next to a person using an orange screwdriver to assemble a white piece of furniture"}
+{"id": 345, "image": "ex_345_img_0", "caption": "a worker in a yellow hat uses a drill to the left of where the opening in the wall is"}
+{"id": 345, "image": "ex_345_img_0", "caption": "the opening in the wall is to the left of where a worker in a yellow hat uses a drill"}
+{"id": 345, "image": "ex_345_img_1", "caption": "a worker in a yellow hat uses a drill to the left of where the opening in the wall is"}
+{"id": 345, "image": "ex_345_img_1", "caption": "the opening in the wall is to the left of where a worker in a yellow hat uses a drill"}
+{"id": 346, "image": "ex_346_img_0", "caption": "A small animal with curled hair"}
+{"id": 346, "image": "ex_346_img_0", "caption": "A curled small animal with hair"}
+{"id": 346, "image": "ex_346_img_1", "caption": "A small animal with curled hair"}
+{"id": 346, "image": "ex_346_img_1", "caption": "A curled small animal with hair"}
+{"id": 347, "image": "ex_347_img_0", "caption": "A right hand pulls a glove onto a left hand"}
+{"id": 347, "image": "ex_347_img_0", "caption": "A left hand pulls a glove onto a right hand"}
+{"id": 347, "image": "ex_347_img_1", "caption": "A right hand pulls a glove onto a left hand"}
+{"id": 347, "image": "ex_347_img_1", "caption": "A left hand pulls a glove onto a right hand"}
+{"id": 348, "image": "ex_348_img_0", "caption": "A dog and a person with their feet hanging out of a car window"}
+{"id": 348, "image": "ex_348_img_0", "caption": "A dog with their feet hanging out of a car window and a person"}
+{"id": 348, "image": "ex_348_img_1", "caption": "A dog and a person with their feet hanging out of a car window"}
+{"id": 348, "image": "ex_348_img_1", "caption": "A dog with their feet hanging out of a car window and a person"}
+{"id": 349, "image": "ex_349_img_0", "caption": "A person whispering into a dog's ear"}
+{"id": 349, "image": "ex_349_img_0", "caption": "A dog whispering into a person's ear"}
+{"id": 349, "image": "ex_349_img_1", "caption": "A person whispering into a dog's ear"}
+{"id": 349, "image": "ex_349_img_1", "caption": "A dog whispering into a person's ear"}
+{"id": 350, "image": "ex_350_img_0", "caption": "one ear that some donkey is whispering a secret into"}
+{"id": 350, "image": "ex_350_img_0", "caption": "donkey ear that some one is whispering a secret into"}
+{"id": 350, "image": "ex_350_img_1", "caption": "one ear that some donkey is whispering a secret into"}
+{"id": 350, "image": "ex_350_img_1", "caption": "donkey ear that some one is whispering a secret into"}
+{"id": 351, "image": "ex_351_img_0", "caption": "walking someone cut lines into green plants"}
+{"id": 351, "image": "ex_351_img_0", "caption": "someone walking lines cut into green plants"}
+{"id": 351, "image": "ex_351_img_1", "caption": "walking someone cut lines into green plants"}
+{"id": 351, "image": "ex_351_img_1", "caption": "someone walking lines cut into green plants"}
+{"id": 352, "image": "ex_352_img_0", "caption": "a volcano above water makes steam"}
+{"id": 352, "image": "ex_352_img_0", "caption": "water above a volcano makes steam"}
+{"id": 352, "image": "ex_352_img_1", "caption": "a volcano above water makes steam"}
+{"id": 352, "image": "ex_352_img_1", "caption": "water above a volcano makes steam"}
+{"id": 353, "image": "ex_353_img_0", "caption": "A child riding a bike and an adult"}
+{"id": 353, "image": "ex_353_img_0", "caption": "A child and an adult riding a bike"}
+{"id": 353, "image": "ex_353_img_1", "caption": "A child riding a bike and an adult"}
+{"id": 353, "image": "ex_353_img_1", "caption": "A child and an adult riding a bike"}
+{"id": 354, "image": "ex_354_img_0", "caption": "an adult putting a helmet on a child"}
+{"id": 354, "image": "ex_354_img_0", "caption": "a child putting a helmet on an adult"}
+{"id": 354, "image": "ex_354_img_1", "caption": "an adult putting a helmet on a child"}
+{"id": 354, "image": "ex_354_img_1", "caption": "a child putting a helmet on an adult"}
+{"id": 355, "image": "ex_355_img_0", "caption": "An adult wearing purple lying next to a child"}
+{"id": 355, "image": "ex_355_img_0", "caption": "An adult lying next to a child wearing purple"}
+{"id": 355, "image": "ex_355_img_1", "caption": "An adult wearing purple lying next to a child"}
+{"id": 355, "image": "ex_355_img_1", "caption": "An adult lying next to a child wearing purple"}
+{"id": 356, "image": "ex_356_img_0", "caption": "a fencer who is wearing black pants having a point scored against them by another fencer using a wheelchair"}
+{"id": 356, "image": "ex_356_img_0", "caption": "a fencer having a point scored against them by another fencer who is wearing black pants using a wheelchair"}
+{"id": 356, "image": "ex_356_img_1", "caption": "a fencer who is wearing black pants having a point scored against them by another fencer using a wheelchair"}
+{"id": 356, "image": "ex_356_img_1", "caption": "a fencer having a point scored against them by another fencer who is wearing black pants using a wheelchair"}
+{"id": 357, "image": "ex_357_img_0", "caption": "a person with long braids is exercising in front of a person without braids"}
+{"id": 357, "image": "ex_357_img_0", "caption": "a person without braids is exercising in front of a person with long braids"}
+{"id": 357, "image": "ex_357_img_1", "caption": "a person with long braids is exercising in front of a person without braids"}
+{"id": 357, "image": "ex_357_img_1", "caption": "a person without braids is exercising in front of a person with long braids"}
+{"id": 358, "image": "ex_358_img_0", "caption": "in the stadium, the person wearing gray outperformed the one wearing blue"}
+{"id": 358, "image": "ex_358_img_0", "caption": "in the stadium, the person wearing blue outperformed the one wearing gray"}
+{"id": 358, "image": "ex_358_img_1", "caption": "in the stadium, the person wearing gray outperformed the one wearing blue"}
+{"id": 358, "image": "ex_358_img_1", "caption": "in the stadium, the person wearing blue outperformed the one wearing gray"}
+{"id": 359, "image": "ex_359_img_0", "caption": "butchering white meat while wearing yellow but not red"}
+{"id": 359, "image": "ex_359_img_0", "caption": "butchering red meat while wearing white but not yellow"}
+{"id": 359, "image": "ex_359_img_1", "caption": "butchering white meat while wearing yellow but not red"}
+{"id": 359, "image": "ex_359_img_1", "caption": "butchering red meat while wearing white but not yellow"}
+{"id": 360, "image": "ex_360_img_0", "caption": "a child with a fake beard and an adult"}
+{"id": 360, "image": "ex_360_img_0", "caption": "an adult with a fake beard and a child"}
+{"id": 360, "image": "ex_360_img_1", "caption": "a child with a fake beard and an adult"}
+{"id": 360, "image": "ex_360_img_1", "caption": "an adult with a fake beard and a child"}
+{"id": 361, "image": "ex_361_img_0", "caption": "on halloween, a child dressed as an insect is to the right of a child dressed as a mammal"}
+{"id": 361, "image": "ex_361_img_0", "caption": "on halloween, a child dressed as a mammal is to the right of a child dressed as an insect"}
+{"id": 361, "image": "ex_361_img_1", "caption": "on halloween, a child dressed as an insect is to the right of a child dressed as a mammal"}
+{"id": 361, "image": "ex_361_img_1", "caption": "on halloween, a child dressed as a mammal is to the right of a child dressed as an insect"}
+{"id": 362, "image": "ex_362_img_0", "caption": "a modern office complex with many windows above a nicely landscaped lawn"}
+{"id": 362, "image": "ex_362_img_0", "caption": "a nicely landscaped lawn above a modern office complex with many windows"}
+{"id": 362, "image": "ex_362_img_1", "caption": "a modern office complex with many windows above a nicely landscaped lawn"}
+{"id": 362, "image": "ex_362_img_1", "caption": "a nicely landscaped lawn above a modern office complex with many windows"}
+{"id": 363, "image": "ex_363_img_0", "caption": "a tree is partially inside a parked car"}
+{"id": 363, "image": "ex_363_img_0", "caption": "a parked car is partially inside a tree"}
+{"id": 363, "image": "ex_363_img_1", "caption": "a tree is partially inside a parked car"}
+{"id": 363, "image": "ex_363_img_1", "caption": "a parked car is partially inside a tree"}
+{"id": 364, "image": "ex_364_img_0", "caption": "some are parking in a train"}
+{"id": 364, "image": "ex_364_img_0", "caption": "some are training in a park"}
+{"id": 364, "image": "ex_364_img_1", "caption": "some are parking in a train"}
+{"id": 364, "image": "ex_364_img_1", "caption": "some are training in a park"}
+{"id": 365, "image": "ex_365_img_0", "caption": "an athlete running on water"}
+{"id": 365, "image": "ex_365_img_0", "caption": "water running on an athlete"}
+{"id": 365, "image": "ex_365_img_1", "caption": "an athlete running on water"}
+{"id": 365, "image": "ex_365_img_1", "caption": "water running on an athlete"}
+{"id": 366, "image": "ex_366_img_0", "caption": "a horse getting wet"}
+{"id": 366, "image": "ex_366_img_0", "caption": "getting a horse wet"}
+{"id": 366, "image": "ex_366_img_1", "caption": "a horse getting wet"}
+{"id": 366, "image": "ex_366_img_1", "caption": "getting a horse wet"}
+{"id": 367, "image": "ex_367_img_0", "caption": "the glasses full of water are above the person's head and leg"}
+{"id": 367, "image": "ex_367_img_0", "caption": "the person's head and leg are above the glasses full of water"}
+{"id": 367, "image": "ex_367_img_1", "caption": "the glasses full of water are above the person's head and leg"}
+{"id": 367, "image": "ex_367_img_1", "caption": "the person's head and leg are above the glasses full of water"}
+{"id": 368, "image": "ex_368_img_0", "caption": "a person is touching the head of a squirrel"}
+{"id": 368, "image": "ex_368_img_0", "caption": "a squirrel is touching the head of a person"}
+{"id": 368, "image": "ex_368_img_1", "caption": "a person is touching the head of a squirrel"}
+{"id": 368, "image": "ex_368_img_1", "caption": "a squirrel is touching the head of a person"}
+{"id": 369, "image": "ex_369_img_0", "caption": "a deer's nose is resting on a child's hand"}
+{"id": 369, "image": "ex_369_img_0", "caption": "a child's hand is resting on a deer's nose"}
+{"id": 369, "image": "ex_369_img_1", "caption": "a deer's nose is resting on a child's hand"}
+{"id": 369, "image": "ex_369_img_1", "caption": "a child's hand is resting on a deer's nose"}
+{"id": 370, "image": "ex_370_img_0", "caption": "two sparklers for one hand"}
+{"id": 370, "image": "ex_370_img_0", "caption": "one sparkler for two hands"}
+{"id": 370, "image": "ex_370_img_1", "caption": "two sparklers for one hand"}
+{"id": 370, "image": "ex_370_img_1", "caption": "one sparkler for two hands"}
+{"id": 371, "image": "ex_371_img_0", "caption": "an animal giving a person food"}
+{"id": 371, "image": "ex_371_img_0", "caption": "a person giving an animal food"}
+{"id": 371, "image": "ex_371_img_1", "caption": "an animal giving a person food"}
+{"id": 371, "image": "ex_371_img_1", "caption": "a person giving an animal food"}
+{"id": 372, "image": "ex_372_img_0", "caption": "a spider towering over a dog"}
+{"id": 372, "image": "ex_372_img_0", "caption": "a dog towering over a spider"}
+{"id": 372, "image": "ex_372_img_1", "caption": "a spider towering over a dog"}
+{"id": 372, "image": "ex_372_img_1", "caption": "a dog towering over a spider"}
+{"id": 373, "image": "ex_373_img_0", "caption": "a car going into a hollow tube"}
+{"id": 373, "image": "ex_373_img_0", "caption": "a hollow tube going into a car"}
+{"id": 373, "image": "ex_373_img_1", "caption": "a car going into a hollow tube"}
+{"id": 373, "image": "ex_373_img_1", "caption": "a hollow tube going into a car"}
+{"id": 374, "image": "ex_374_img_0", "caption": "two people wearing clothes of the same colors are on different side of the tennis net"}
+{"id": 374, "image": "ex_374_img_0", "caption": "two people wearing clothes of different colors are on the same side of the tennis net"}
+{"id": 374, "image": "ex_374_img_1", "caption": "two people wearing clothes of the same colors are on different side of the tennis net"}
+{"id": 374, "image": "ex_374_img_1", "caption": "two people wearing clothes of different colors are on the same side of the tennis net"}
+{"id": 375, "image": "ex_375_img_0", "caption": "living things drinking"}
+{"id": 375, "image": "ex_375_img_0", "caption": "drinking living things"}
+{"id": 375, "image": "ex_375_img_1", "caption": "living things drinking"}
+{"id": 375, "image": "ex_375_img_1", "caption": "drinking living things"}
+{"id": 376, "image": "ex_376_img_0", "caption": "a person near water using a lasso"}
+{"id": 376, "image": "ex_376_img_0", "caption": "near a person using a water lasso"}
+{"id": 376, "image": "ex_376_img_1", "caption": "a person near water using a lasso"}
+{"id": 376, "image": "ex_376_img_1", "caption": "near a person using a water lasso"}
+{"id": 377, "image": "ex_377_img_0", "caption": "a person spraying water on someone else and a person on a bike"}
+{"id": 377, "image": "ex_377_img_0", "caption": "a person spraying water on a person on a bike and someone else"}
+{"id": 377, "image": "ex_377_img_1", "caption": "a person spraying water on someone else and a person on a bike"}
+{"id": 377, "image": "ex_377_img_1", "caption": "a person spraying water on a person on a bike and someone else"}
+{"id": 378, "image": "ex_378_img_0", "caption": "a person stretching behind a brown dog"}
+{"id": 378, "image": "ex_378_img_0", "caption": "a brown dog stretching behind a person"}
+{"id": 378, "image": "ex_378_img_1", "caption": "a person stretching behind a brown dog"}
+{"id": 378, "image": "ex_378_img_1", "caption": "a brown dog stretching behind a person"}
+{"id": 379, "image": "ex_379_img_0", "caption": "a person carrying more than one flotation device"}
+{"id": 379, "image": "ex_379_img_0", "caption": "more than one flotation device carrying a person"}
+{"id": 379, "image": "ex_379_img_1", "caption": "a person carrying more than one flotation device"}
+{"id": 379, "image": "ex_379_img_1", "caption": "more than one flotation device carrying a person"}
+{"id": 380, "image": "ex_380_img_0", "caption": "two kids on a pool floatie and one kid swimming"}
+{"id": 380, "image": "ex_380_img_0", "caption": "one kid on a pool floatie and two kids swimming"}
+{"id": 380, "image": "ex_380_img_1", "caption": "two kids on a pool floatie and one kid swimming"}
+{"id": 380, "image": "ex_380_img_1", "caption": "one kid on a pool floatie and two kids swimming"}
+{"id": 381, "image": "ex_381_img_0", "caption": "gears for moving something"}
+{"id": 381, "image": "ex_381_img_0", "caption": "moving gears for something"}
+{"id": 381, "image": "ex_381_img_1", "caption": "gears for moving something"}
+{"id": 381, "image": "ex_381_img_1", "caption": "moving gears for something"}
+{"id": 382, "image": "ex_382_img_0", "caption": "looking from above at a collection of similar objects below"}
+{"id": 382, "image": "ex_382_img_0", "caption": "looking from below at a collection of similar objects above"}
+{"id": 382, "image": "ex_382_img_1", "caption": "looking from above at a collection of similar objects below"}
+{"id": 382, "image": "ex_382_img_1", "caption": "looking from below at a collection of similar objects above"}
+{"id": 383, "image": "ex_383_img_0", "caption": "a toy herbivore stands on top of at least one toy carnivore"}
+{"id": 383, "image": "ex_383_img_0", "caption": "at least one toy herbivore stands on top of a toy carnivore"}
+{"id": 383, "image": "ex_383_img_1", "caption": "a toy herbivore stands on top of at least one toy carnivore"}
+{"id": 383, "image": "ex_383_img_1", "caption": "at least one toy herbivore stands on top of a toy carnivore"}
+{"id": 384, "image": "ex_384_img_0", "caption": "a person supports a small chair"}
+{"id": 384, "image": "ex_384_img_0", "caption": "a chair supports a small person"}
+{"id": 384, "image": "ex_384_img_1", "caption": "a person supports a small chair"}
+{"id": 384, "image": "ex_384_img_1", "caption": "a chair supports a small person"}
+{"id": 385, "image": "ex_385_img_0", "caption": "a person smiles at another person wearing a checked shirt who is hitting a ping pong ball"}
+{"id": 385, "image": "ex_385_img_0", "caption": "a person wearing a checked shirt smiles at another person who is hitting a ping pong ball"}
+{"id": 385, "image": "ex_385_img_1", "caption": "a person smiles at another person wearing a checked shirt who is hitting a ping pong ball"}
+{"id": 385, "image": "ex_385_img_1", "caption": "a person wearing a checked shirt smiles at another person who is hitting a ping pong ball"}
+{"id": 386, "image": "ex_386_img_0", "caption": "two versions of one person"}
+{"id": 386, "image": "ex_386_img_0", "caption": "one version of two persons"}
+{"id": 386, "image": "ex_386_img_1", "caption": "two versions of one person"}
+{"id": 386, "image": "ex_386_img_1", "caption": "one version of two persons"}
+{"id": 387, "image": "ex_387_img_0", "caption": "There are not pink flowers below the bird with yellow head feathers"}
+{"id": 387, "image": "ex_387_img_0", "caption": "There are pink flowers not below the bird with yellow head feathers"}
+{"id": 387, "image": "ex_387_img_1", "caption": "There are not pink flowers below the bird with yellow head feathers"}
+{"id": 387, "image": "ex_387_img_1", "caption": "There are pink flowers not below the bird with yellow head feathers"}
+{"id": 388, "image": "ex_388_img_0", "caption": "In a shopping cart, there are two animals that are the same species but are looking in different directions"}
+{"id": 388, "image": "ex_388_img_0", "caption": "In a shopping cart, there are two animals that are the different species but are looking in same directions"}
+{"id": 388, "image": "ex_388_img_1", "caption": "In a shopping cart, there are two animals that are the same species but are looking in different directions"}
+{"id": 388, "image": "ex_388_img_1", "caption": "In a shopping cart, there are two animals that are the different species but are looking in same directions"}
+{"id": 389, "image": "ex_389_img_0", "caption": "water is on and under a vessel"}
+{"id": 389, "image": "ex_389_img_0", "caption": "a vessel is on and under water"}
+{"id": 389, "image": "ex_389_img_1", "caption": "water is on and under a vessel"}
+{"id": 389, "image": "ex_389_img_1", "caption": "a vessel is on and under water"}
+{"id": 390, "image": "ex_390_img_0", "caption": "two bodies share with one head"}
+{"id": 390, "image": "ex_390_img_0", "caption": "one bodies share with two head"}
+{"id": 390, "image": "ex_390_img_1", "caption": "two bodies share with one head"}
+{"id": 390, "image": "ex_390_img_1", "caption": "one bodies share with two head"}
+{"id": 391, "image": "ex_391_img_0", "caption": "The worker wears something striped over a white undershirt with a collar"}
+{"id": 391, "image": "ex_391_img_0", "caption": "The worker wears something white over a striped undershirt with a collar"}
+{"id": 391, "image": "ex_391_img_1", "caption": "The worker wears something striped over a white undershirt with a collar"}
+{"id": 391, "image": "ex_391_img_1", "caption": "The worker wears something white over a striped undershirt with a collar"}
+{"id": 392, "image": "ex_392_img_0", "caption": "A person seen from above has a grid below them"}
+{"id": 392, "image": "ex_392_img_0", "caption": "A person seen from below has a grid above them"}
+{"id": 392, "image": "ex_392_img_1", "caption": "A person seen from above has a grid below them"}
+{"id": 392, "image": "ex_392_img_1", "caption": "A person seen from below has a grid above them"}
+{"id": 393, "image": "ex_393_img_0", "caption": "head in the clouds"}
+{"id": 393, "image": "ex_393_img_0", "caption": "clouds in the head"}
+{"id": 393, "image": "ex_393_img_1", "caption": "head in the clouds"}
+{"id": 393, "image": "ex_393_img_1", "caption": "clouds in the head"}
+{"id": 394, "image": "ex_394_img_0", "caption": "standing on feet"}
+{"id": 394, "image": "ex_394_img_0", "caption": "on feet standing"}
+{"id": 394, "image": "ex_394_img_1", "caption": "standing on feet"}
+{"id": 394, "image": "ex_394_img_1", "caption": "on feet standing"}
+{"id": 395, "image": "ex_395_img_0", "caption": "They have sunglasses over their hair"}
+{"id": 395, "image": "ex_395_img_0", "caption": "They have hair over their sunglasses"}
+{"id": 395, "image": "ex_395_img_1", "caption": "They have sunglasses over their hair"}
+{"id": 395, "image": "ex_395_img_1", "caption": "They have hair over their sunglasses"}
+{"id": 396, "image": "ex_396_img_0", "caption": "an odd number of sweet things on a plate with an even number of sides"}
+{"id": 396, "image": "ex_396_img_0", "caption": "an even number of sweet things on a plate with an odd number of sides"}
+{"id": 396, "image": "ex_396_img_1", "caption": "an odd number of sweet things on a plate with an even number of sides"}
+{"id": 396, "image": "ex_396_img_1", "caption": "an even number of sweet things on a plate with an odd number of sides"}
+{"id": 397, "image": "ex_397_img_0", "caption": "a large living thing in front of a large non-living thing"}
+{"id": 397, "image": "ex_397_img_0", "caption": "a large non-living thing in front of a large living thing"}
+{"id": 397, "image": "ex_397_img_1", "caption": "a large living thing in front of a large non-living thing"}
+{"id": 397, "image": "ex_397_img_1", "caption": "a large non-living thing in front of a large living thing"}
+{"id": 398, "image": "ex_398_img_0", "caption": "racing over it"}
+{"id": 398, "image": "ex_398_img_0", "caption": "racing it over"}
+{"id": 398, "image": "ex_398_img_1", "caption": "racing over it"}
+{"id": 398, "image": "ex_398_img_1", "caption": "racing it over"}
+{"id": 399, "image": "ex_399_img_0", "caption": "someone is overdoing it"}
+{"id": 399, "image": "ex_399_img_0", "caption": "someone is doing it over"}
+{"id": 399, "image": "ex_399_img_1", "caption": "someone is overdoing it"}
+{"id": 399, "image": "ex_399_img_1", "caption": "someone is doing it over"}
