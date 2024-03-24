@@ -20,7 +20,7 @@ We present **CCoT**, a novel **C**compositional **C**hain-**o**f-**T**hought pro
 ---
 Note that because our method is a zero-shot prompting method, there is ample flexibility when applying it to your particular model and use case. As such, you may find it easier to simply use the general methodology described in our paper with a different prompt, implementation, and evaluation methodology.
 
-### LLaVA-1.5-13b
+#### LLaVA-1.5-13b
 1. First, clone the official **LLaVA** [Repository](https://github.com/haotian-liu/LLaVA).
 ```bash
 git clone https://github.com/haotian-liu/LLaVA.git
@@ -29,9 +29,9 @@ git clone https://github.com/haotian-liu/LLaVA.git
 3. Complete the *Evaluation* setup outlined in the repository.
 4. Replace the corresponding scripts (both Python or Bash scripts where necessary) with those in our repository here.
 
-## GPT-4V
+#### GPT-4V
 
-## InstructBLIP-13b
+#### InstructBLIP-13b
 
-## Sphinx
+#### Sphinx
 
