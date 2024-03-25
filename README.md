@@ -20,7 +20,7 @@ The first step in our prompting method is to generate a scene graph given both t
 
 ### 💻 Setup
 ---
-Note that because our method is a zero-shot prompting method, there is ample flexibility when applying it to your particular model and use case. As such, you may find it easier to simply use the general methodology described in our paper with a different prompt, implementation, and evaluation methodology.
+Note that because our method is a zero-shot prompting method, there is ample flexibility when applying it to your particular model and use case. As such, you may find it easier to simply use the general methodology described in our paper and outlined in our scripts with a different prompt, implementation, and evaluation methodology.
 
 #### LLaVA-1.5-13b
 1. First, clone the official **LLaVA** [Repository](https://github.com/haotian-liu/LLaVA).
