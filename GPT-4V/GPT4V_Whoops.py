@@ -73,7 +73,7 @@ def get_ans(question, image_tensor, pred_sg=None):
     
 
 result_file = open(result_path, "w")
-examples = load_dataset('nlphuji/whoops', use_auth_token="")
+examples = load_dataset('nlphuji/whoops', use_auth_token=hf_key)
 for item in tqdm(examples["test"]):
     
     is_done = False
