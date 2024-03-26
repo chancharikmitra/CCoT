@@ -12,7 +12,11 @@ import base64
 from io import BytesIO
 
 
-api_key=''
+result_path="" ##path to store result
+api_key="" #Openai api key
+hf_key="" #Huggingface auth key
+
+
 sgPrompt='''
 For the provided image and its associated question, generate only a scene graph in JSON format that includes the following:
 1. Objects that are relevant to answering the question
@@ -68,7 +72,7 @@ def get_ans(question, image_tensor, pred_sg=None):
     return cur_ans
     
 
-ans_file = open("", "w")
+result_file = open(result_path, "w")
 examples = load_dataset('nlphuji/whoops', use_auth_token="")
 for item in tqdm(examples["test"]):
     
@@ -88,10 +92,9 @@ for item in tqdm(examples["test"]):
                 all_pred.append(pred_ans)
 
 
-            ans_file.write(json.dumps({  "image_id": item["image_id"],
+            result_file.write(json.dumps({  "image_id": item["image_id"],
                                         "question_answering_pairs": item["question_answering_pairs"],
                                         "prediction": all_pred}) + "\n")
-            ans_file.flush()
             is_done = True
         except:
             fail_count += 1
@@ -99,4 +102,4 @@ for item in tqdm(examples["test"]):
                 break
             is_done = False
 
-ans_file.close()
+result_file.close()
