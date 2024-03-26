@@ -7,7 +7,10 @@ import math
 import requests
 
 
-api_key=''
+api_key='' #Openai api key
+question_path="" #MMbench tsv file path
+result_path="" #Path to store result
+
 sgPrompt='''
 For the provided image and its associated question, generate only a scene graph in JSON format that includes the following:
 1. Objects that are relevant to answering the question
@@ -16,6 +19,32 @@ For the provided image and its associated question, generate only a scene graph 
 '''
 answerPrompt="Use the image and scene graph as context and answer the following question: "
 all_options = ['A', 'B', 'C', 'D']
+
+
+def create_payload(cur_image, cur_text):
+    payload = {
+    "model": "gpt-4-vision-preview",
+    "messages": [
+        {
+        "role": "user",
+        "content": [
+            {
+            "type": "image_url",
+            "image_url": {
+                "url": f"data:image/jpeg;base64,{cur_image}"
+            }
+            },
+            {
+            "type": "text",
+            "text": cur_text
+            }
+        ]
+        }
+    ],
+    "max_tokens": 512,
+    "temperature":0
+    }
+  return payload
 
 
 def split_list(lst, n):
@@ -49,12 +78,14 @@ def get_options(row, options):
         parsed_options.append(option_value)
     return parsed_options
 
+headers = {
+"Content-Type": "application/json",
+"Authorization": f"Bearer {api_key}"
+}
 
-questions = pd.read_table(os.path.expanduser(""))
+questions = pd.read_table(question_path)
 questions = get_chunk(questions, 1, 0)
-answers_file = os.path.expanduser("")
-os.makedirs(os.path.dirname(answers_file), exist_ok=True)
-ans_file = open(answers_file, "w")
+result_file = open(result_path, "w")
 
 
 for index, row in tqdm(questions.iterrows(), total=len(questions)):
@@ -76,84 +107,28 @@ for index, row in tqdm(questions.iterrows(), total=len(questions)):
                 question = question + '\n' + option_char + '. ' + option
             qs = question
 
-
-            headers = {
-            "Content-Type": "application/json",
-            "Authorization": f"Bearer {api_key}"
-            }
-
-
-            payload = {
-            "model": "gpt-4-vision-preview",
-            "messages": [
-                {
-                "role": "user",
-                "content": [
-                    {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": f"data:image/jpeg;base64,{image}"
-                    }
-                    },
-                    {
-                    "type": "text",
-                    "text": qs + "/n" + sgPrompt
-                    }
-                ]
-                }
-            ],
-            "max_tokens": 512
-            }
-
-
+            payload = create_payload(image, qs + sgPrompt)
             response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
             cur_sg = response.json()["choices"][0]["message"]["content"]
 
 
-            new_q = "Scene Graph: " + cur_sg + "/n/n" + answerPrompt + qs + '\n' + "Answer with the option's letter from the given choices directly."
-            payload = {
-            "model": "gpt-4-vision-preview",
-            "messages": [
-                {
-                "role": "user",
-                "content": [
-                    {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": f"data:image/jpeg;base64,{image}"
-                    }
-                    },
-                    {
-                    "type": "text",
-                    "text": new_q
-                    },
-                ]
-                }
-            ],
-            "max_tokens": 512
-            }
-
-
+            new_q = f"Scene Graph: {cur_sg}\n\n{answerPrompt}{qs}\nAnswer with the option's letter from the given choices directly."
+            payload = create_payload(image, new_q)
             response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
             final_ans = response.json()["choices"][0]["message"]["content"]
 
 
-            q0 = {}
-            q0["question_id"] = idx
-            q0["text"] = final_ans
-            ans_file.write(json.dumps(q0) + "\n")
+            temp_result = {"question_id":idx, "text":final_ans}
+            result_file.write(json.dumps(temp_result) + "\n")
 
 
-            ans_file.flush()
             is_done = True
             # rotate options
             options = options[1:] + options[:1]
             cur_option_char = cur_option_char[1:] + cur_option_char[:1]
-        
-
         except:
             fail_count += 1
             if fail_count == 5:
                 break
             is_done = False
-ans_file.close()
+result_file.close()
