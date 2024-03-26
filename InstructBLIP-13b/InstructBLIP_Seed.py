@@ -47,9 +47,9 @@ Scene Graph:
 '''
 
 
-qs_path = ""
-ans_path = ""
-img_dir = ""
+qs_path = ""  #Path to question
+ans_path = ""  #Path to store result
+img_dir = ""  #Path to image
 ans_file = open(ans_path, 'w')
 
 
@@ -59,18 +59,14 @@ with open(qs_path, 'r') as json_file:
 
 count = 0
 for json_str in tqdm(json_list):
-
-
     result = json.loads(json_str)
     try:
         cur_image = img_dir + result["image"]
         image = Image.open(cur_image).convert("RGB")
         prompt = "<Image> " +  result["text"].split("?")[0] + "?" + sgPrompt
 
-
-        # prompt = "<Image> Does the given caption accurately describe the given image? Caption:" +  result["caption"] + ".Step by step reason:"
-        inputs = processor(images=image, text=prompt, return_tensors="pt").to("cuda:7")
-
+        
+        inputs = processor(images=image, text=prompt, return_tensors="pt").to("cuda")
         outputs = model.generate(
             **inputs,
             do_sample=False,
@@ -80,16 +76,14 @@ for json_str in tqdm(json_list):
             top_p=0.9,
             repetition_penalty=1.5,
             length_penalty=0.5,
-            temperature=1,
+            temperature=0,
         )
         generated_text = processor.batch_decode(outputs, skip_special_tokens=True)[0].strip()
         
 
         answerPrompt="Use the image and scene graph as context and answer the following question: "
-        prompt_score = "<Image>" + " Scene Graph: " + generated_text + '\n\n' + answerPrompt + result["text"] + ". The correct letter is"
-
-        #prompt_score = "Q: " + "Does the given caption accurately describe the given image? Caption:" +  result["caption"] + ".\n\nLet's think step by step:" + generated_text + "\n\n" + cap
-        inputs2 = processor(images=image, text=prompt_score, return_tensors="pt").to("cuda:7")
+        prompt_score = "<Image> Scene Graph: " + generated_text + '\n\n' + answerPrompt + result["text"] + ". The correct letter is"
+        inputs2 = processor(images=image, text=prompt_score, return_tensors="pt").to("cuda")
         outputs2 = model.generate(
             **inputs2,
             do_sample=False,
@@ -99,18 +93,12 @@ for json_str in tqdm(json_list):
             top_p=0.9,
             repetition_penalty=1.5,
             length_penalty=0.5,
-            temperature=1,
+            temperature=0,
         )
-
         generated_text = processor.batch_decode(outputs2, skip_special_tokens=True)[0].strip()
-
-
     except:
         generated_text = "None"
 
-    q0 = {}
-    q0["question_id"] = result["question_id"]
-    q0["text"] = generated_text
-    ans_file.write(json.dumps(q0) + "\n")
-    ans_file.flush()
+    temp_result = {"question_id":result["question_id"], "text":generated_text}
+    ans_file.write(json.dumps(temp_result) + "\n")
 ans_file.close()
