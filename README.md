@@ -56,3 +56,15 @@ export OPENAI_API_KEY=
 2. For other datasets, follow setup instructions from the official [repository](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX)
 3. Run our provided script.
 
+### 📝 Citation
+---
+If you found our work useful, please consider starring and citing. Thank you!
+```latex
+@inproceedings{Mitra,
+  title={Compositional Chain of Thought Prompting for Large Multimodal Models},
+  author={Mitra, Chancharik and Huang, Brandon and Darrell, Trevor and Herzig, Roei},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month={June},
+  year={2024}
+}
+```
