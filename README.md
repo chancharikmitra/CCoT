@@ -22,6 +22,9 @@ The first step in our prompting method is to generate a scene graph given both t
 ---
 Note that because our method is a zero-shot prompting method and makes use of the codebase of its respective LMM, there is ample flexibility when applying it to your particular model and use case. As such, you may find it easier to simply use the general methodology described in our paper and outlined in our scripts with a different prompt, implementation, and evaluation methodology.
 
+#### Datasets
+Please retrieve all datasets from their respective official websites or repositories. We do provide the filtered .jsonl containing just the SEEDBench-Image data points in our data folder.
+
 #### LLaVA-1.5-13b
 1. First, clone the official **LLaVA** [Repository](https://github.com/haotian-liu/LLaVA).
 ```bash
