@@ -24,7 +24,7 @@ Note that because our method is a zero-shot prompting method and makes use of th
 Please retrieve all datasets from their respective official websites or repositories. We do provide the filtered .jsonl containing just the SEEDBench-Image data points in our data folder.
 
 #### LLaVA-1.5-13b
-1. First, clone the official **LLaVA** [Repository](https://github.com/haotian-liu/LLaVA).
+1. First, clone the official **LLaVA** [repository](https://github.com/haotian-liu/LLaVA).
 ```bash
 git clone https://github.com/haotian-liu/LLaVA.git
 ```
@@ -51,4 +51,8 @@ export OPENAI_API_KEY=
 3. Run the script for your desired dataset.
 
 #### Sphinx
+
+1. For SEEDBench and MMBench, we make use of the LLaVA codebase's setup. Simply follow the LLaVA-1.5 setup steps and replace the scripts with those of Sphinx.
+2. For other datasets, follow setup instructions from the official [repository](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX)
+3. Run our provided script.
 
