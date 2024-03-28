@@ -1,13 +1,11 @@
 # CCoT 🧩 🧠
-Official Codebase for the Paper "Compositional Chain-of-Thought Prompting for Large Multimodal Models" (\*updates still in progress \*)
+Official Codebase for the Paper "Compositional Chain-of-Thought Prompting for Large Multimodal Models" (\*updates still in progress\*)
 ---
 We present **CCoT**, a novel **C**compositional **C**hain-**o**f-**T**hought prompting method that utilizes scene-graph representations in order to extract compositional knowledge from an LMM. We find that this approach not only improves LMM performance on several compositional benchmarks but also general multimodal benchmarks as well. 
 
 <p align="center">
   <img src=images/fig1_v7.png width="500"/>
 </p>
-
-> Insert links to paper, website, and everyone's website here
 
 ### Method Description
 ---
@@ -22,8 +20,11 @@ The first step in our prompting method is to generate a scene graph given both t
 ---
 Note that because our method is a zero-shot prompting method and makes use of the codebase of its respective LMM, there is ample flexibility when applying it to your particular model and use case. As such, you may find it easier to simply use the general methodology described in our paper and outlined in our scripts with a different prompt, implementation, and evaluation methodology.
 
+#### Datasets
+Please retrieve all datasets from their respective official websites or repositories. We do provide the filtered .jsonl containing just the SEEDBench-Image data points in our data folder.
+
 #### LLaVA-1.5-13b
-1. First, clone the official **LLaVA** [Repository](https://github.com/haotian-liu/LLaVA).
+1. First, clone the official **LLaVA** [repository](https://github.com/haotian-liu/LLaVA).
 ```bash
 git clone https://github.com/haotian-liu/LLaVA.git
 ```
@@ -45,5 +46,13 @@ export OPENAI_API_KEY=
 
 #### InstructBLIP-13b
 
+1. First, clone the official **LLaVA** [Repository]([https://github.com/haotian-liu/LLaVA](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)).
+2. Follow the basic installation steps outlined in the repository.
+3. Run the script for your desired dataset.
+
 #### Sphinx
+
+1. For SEEDBench and MMBench, we make use of the LLaVA codebase's setup. Simply follow the LLaVA-1.5 setup steps and replace the scripts with those of Sphinx.
+2. For other datasets, follow setup instructions from the official [repository](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX)
+3. Run our provided script.
 
