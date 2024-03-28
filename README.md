@@ -3,6 +3,8 @@ Official Codebase for the Paper "Compositional Chain-of-Thought Prompting for La
 ---
 We present **CCoT**, a novel **C**compositional **C**hain-**o**f-**T**hought prompting method that utilizes scene-graph representations in order to extract compositional knowledge from an LMM. We find that this approach not only improves LMM performance on several compositional benchmarks but also general multimodal benchmarks as well. 
 
+A more thorough discussion of our work can be found in our (paper)[https://arxiv.org/abs/2311.17076].
+
 <p align="center">
   <img src=images/fig1_v7.png width="500"/>
 </p>
