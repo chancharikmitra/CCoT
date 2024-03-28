@@ -9,6 +9,9 @@ from tqdm import tqdm
 from datasets import load_dataset
 
 
+hf_key=""  #Huggingface auth key
+result_path=""  #Path to store result
+
 sgPrompt='''
 For the provided image and its associated question, generate a scene graph in JSON format that includes the following:
 1. Objects that are relevant to answering the question.
@@ -43,7 +46,7 @@ def get_ans(question, image_tensor, pred_sg=None):
         prompt = "<Image> " + question + "\n\n" + sgPrompt
         max_token = 256
     else:
-        prompt = "<Image> Question:" + question + " Scene Graph:" + pred_sg + "\n\n Use the image and scene graph to reason and provide a short answer:"
+        prompt = f"<Image> Question:{question} Scene Graph:{pred_sg}\n\n Use the image and scene graph to reason and provide a short answer:"
         max_token = 64
     inputs = processor(images=image_tensor, text=prompt, return_tensors="pt").to(model.device)
     outputs = model.generate(
@@ -62,11 +65,10 @@ def get_ans(question, image_tensor, pred_sg=None):
     return generated_text
 
 
-ans_file = open("", "w")
-examples = load_dataset('nlphuji/whoops', use_auth_token="")
+result_file = open(result_path, "w")
+examples = load_dataset('nlphuji/whoops', use_auth_token=hf_key)
 
 for item in tqdm(examples["test"]):
-
 
     image_tensor = item["image"].convert("RGB")
     all_pred = []
@@ -79,10 +81,9 @@ for item in tqdm(examples["test"]):
         all_pred.append(pred_ans)
 
 
-    ans_file.write(json.dumps({  "image_id": item["image_id"],
+    result_file.write(json.dumps({  "image_id": item["image_id"],
                                 "question_answering_pairs": item["question_answering_pairs"],
                                 "prediction": all_pred}) + "\n")
-    ans_file.flush()
 
 
-ans_file.close()
+result_file.close()

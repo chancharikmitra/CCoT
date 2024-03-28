@@ -20,7 +20,7 @@ The first step in our prompting method is to generate a scene graph given both t
 
 ### 💻 Setup
 ---
-Note that because our method is a zero-shot prompting method, there is ample flexibility when applying it to your particular model and use case. As such, you may find it easier to simply use the general methodology described in our paper and outlined in our scripts with a different prompt, implementation, and evaluation methodology.
+Note that because our method is a zero-shot prompting method and makes use of the codebase of its respective LMM, there is ample flexibility when applying it to your particular model and use case. As such, you may find it easier to simply use the general methodology described in our paper and outlined in our scripts with a different prompt, implementation, and evaluation methodology.
 
 #### LLaVA-1.5-13b
 1. First, clone the official **LLaVA** [Repository](https://github.com/haotian-liu/LLaVA).
@@ -32,6 +32,16 @@ git clone https://github.com/haotian-liu/LLaVA.git
 4. Replace the corresponding scripts (both Python or Bash scripts where necessary) with those in our repository here.
 
 #### GPT-4V
+
+1. Install the openai library:
+```bash
+pip install openai
+```
+2. Set your openai key:
+```bash
+export OPENAI_API_KEY=
+```
+3. Run the script for your desired dataset.
 
 #### InstructBLIP-13b
 

@@ -14,9 +14,9 @@ For the provided image and its associated question, generate only a scene graph 
 model = SPHINXModel.from_pretrained(pretrained_path="", with_visual=True)
 
 
-image_file = ""
-question_path = ""
-result_path = ""
+image_dir = ""  #Directory containing image data
+question_path = ""  #Path containing the question
+result_path = ""  #Path to store the result
 result_file = open(result_path, 'w')
 
 
@@ -27,20 +27,18 @@ with open(question_path, 'r') as json_file:
 for json_str in tqdm(json_list):
 
     cur_pair = json.loads(json_str)
-    cur_image = Image.open(image_file + cur_pair["image"] + ".png")
+    cur_image = Image.open(image_dir + cur_pair["image"] + ".png")
     cur_caption = cur_pair["caption"]
 
-    cur_question = [["Does the given caption accurately describe the given image? Caption:" + cur_caption + ".\n\n" + sgPrompt, None]]
+    cur_question = [[f"Does the given caption accurately describe the given image? Caption:{cur_caption}.\n\n{sgPrompt}", None]]
     cur_sg = model.generate_response(cur_question, cur_image, max_gen_len=256, temperature=0)
-
-    new_question = [["Does the given caption accurately describe the given image? Caption:" +  cur_caption + ".\n\nScene graph:" + cur_sg + '''\n\nBased on the image and scene graph, provide a explanation to the answer.''', None]]
+    
+    new_question = [[f"Does the given caption accurately describe the given image? Caption:{cur_caption}.\n\nScene graph:{cur_sg}\n\nBased on the image and scene graph, provide a explanation to the answer.", None]]
     final_ans = model.generate_response(new_question, cur_image, max_gen_len=256, temperature=0)
-
 
 
     stored_response = {"text":final_ans}
     result_file.write(json.dumps(stored_response) + "\n")
-    result_file.flush()
 
 
 result_file.close()

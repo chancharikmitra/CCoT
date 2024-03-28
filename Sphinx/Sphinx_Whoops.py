@@ -3,6 +3,9 @@ from tqdm import tqdm
 from datasets import load_dataset
 from SPHINX import SPHINXModel
 
+result_path="" #Path to store the result
+hf_token="" #Huggingface auth token
+
 
 sgPrompt='''
 For the provided image and its associated question, generate only a scene graph in JSON format that includes the following:
@@ -15,7 +18,7 @@ Scene Graph:
 answerPrompt="\nUse the image and scene graph to reason and answer the question with a single phrase."
 
 
-model = SPHINXModel.from_pretrained(pretrained_path="/home/zhaobin/LLaMA2-Accessory/checkpoint", with_visual=True)
+model = SPHINXModel.from_pretrained(pretrained_path="", with_visual=True)
 
 
 def get_ans(question, pred_sg, image_tensor):
@@ -29,8 +32,8 @@ def get_sg(question, image):
     return final_ans
 
 
-ans_file = open("", "w")
-examples = load_dataset('nlphuji/whoops', use_auth_token="")
+result_file = open(result_path, "w")
+examples = load_dataset('nlphuji/whoops', use_auth_token=hf_token)
 for item in tqdm(examples["test"]):
     
     image = item["image"]
@@ -43,11 +46,8 @@ for item in tqdm(examples["test"]):
         pred_ans = get_ans(question, pred_sg, image)
         all_pred.append(pred_ans)
 
-
-    ans_file.write(json.dumps({  "image_id": item["image_id"],
+    result_file.write(json.dumps({  "image_id": item["image_id"],
                                 "question_answering_pairs": item["question_answering_pairs"],
                                 "prediction": all_pred}) + "\n")
-    ans_file.flush()
 
-
-ans_file.close()
+result_file.close()
