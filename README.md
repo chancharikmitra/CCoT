@@ -33,6 +33,16 @@ git clone https://github.com/haotian-liu/LLaVA.git
 
 #### GPT-4V
 
+1. Install the openai library:
+```bash
+pip install openai
+```
+2. Set your openai key:
+```bash
+export OPENAI_API_KEY=
+```
+3. Run the script for your desired dataset.
+
 #### InstructBLIP-13b
 
 #### Sphinx
