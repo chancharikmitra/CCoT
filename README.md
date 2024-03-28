@@ -7,8 +7,6 @@ We present **CCoT**, a novel **C**compositional **C**hain-**o**f-**T**hought pro
   <img src=images/fig1_v7.png width="500"/>
 </p>
 
-> Insert links to paper, website, and everyone's website here
-
 ### Method Description
 ---
 
