@@ -11,7 +11,6 @@ A more thorough discussion of our work can be found in our [paper](https://arxiv
 
 ### Method Description
 ---
-
 <p align="center">
   <img src=images/fig2_v8.png />
 </p>
