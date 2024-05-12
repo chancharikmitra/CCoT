@@ -61,7 +61,7 @@ export OPENAI_API_KEY=
 ---
 If you found our work useful, please consider starring and citing. Thank you!
 ```latex
-@inproceedings{Mitra,
+@inproceedings{MitraCCoT,
   title={Compositional Chain of Thought Prompting for Large Multimodal Models},
   author={Mitra, Chancharik and Huang, Brandon and Darrell, Trevor and Herzig, Roei},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
