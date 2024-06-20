@@ -33,6 +33,8 @@ git clone https://github.com/haotian-liu/LLaVA.git
 3. Complete the *Evaluation* setup outlined in the repository.
 4. Replace the corresponding scripts (both Python or Bash scripts where necessary) with those in our repository here.
 
+*Note: We find some users are having issues with the input processing when directly cloning the repo. This is likely because the post-LLaVA-1.6 update changes the way inputs to the model are handled. One way to remedy this is to check out the newest commit before the LLaVA-1.6 update*
+
 #### GPT-4V
 
 1. Install the openai library:
